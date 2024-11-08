@@ -8,6 +8,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 
+FOLDER_PATH = "./scraper/"
+
 def get_url_content(url):
     response = requests.get(url)
     html_content = response.content.decode("utf-8")
@@ -21,7 +23,7 @@ def get_last_script_tag(url):
     # Find the head section
     head = parser.find("head")
     # Find all script tags with type application/json in the head
-    script_tags = parser.find_all("script", {"type": "application/json"})
+    script_tags = parser.find_all("script", {"type": "application/ld+json"})
     
     if script_tags:
         # Get the last script tag
@@ -43,7 +45,7 @@ def save_to_json(data, filename):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 def scrape_articles():
-    article_urls = load_urls_from_json("script-20241012-090850.json")
+    article_urls = load_urls_from_json(FOLDER_PATH + "/script-20241012-090850.json")
 
     articles = []
     error_articles = []
@@ -57,7 +59,7 @@ def scrape_articles():
         data = get_last_script_tag(url)
         if data:
             try:
-                article_body = data["qt"]["data"]["story"]["cards"][0]["story-elements"][0]["text"]
+                article_body = data["articleBody"]
                     
                 if article_body:
                     article["body"] = article_body
@@ -70,8 +72,8 @@ def scrape_articles():
     return articles, error_articles
 
 timestamp = time.strftime("%Y%m%d-%H%M%S")
-file_path = f"superbalita-articles-{timestamp}.json"
-file_path_error = f"superbalita-articles-error-{timestamp}.json"
+file_path = FOLDER_PATH + f"superbalita-articles-{timestamp}.json"
+file_path_error = FOLDER_PATH + f"superbalita-articles-error-{timestamp}.json"
 
 [articles, error_articles] = scrape_articles()
 save_to_json(articles, file_path)

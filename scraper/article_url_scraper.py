@@ -80,7 +80,7 @@ timestamp = time.strftime("%Y%m%d-%H%M%S")
 file_path = f"script-{timestamp}.json"
 
 with open(file_path, "w") as file:
-    json.dump(articles, file, indent=4)
+    json.dump(articles, file, ensure_ascii=False, indent=4)
     print(f"{file_path} generated")
 
 
