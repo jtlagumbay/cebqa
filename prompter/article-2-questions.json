@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Milayat sa tulay, milutaw human sa 24 oras",
+        "context": "Milutaw na ug nahaw-as ang lawas niadtong lalaki nga milayat sa Marcelo Fernan Bridge niadtong Martes sa udto, Oktubre 8, 2024 paglabay sa 24 oras.",
+        "question": "Kanos-a milayat ang lalaki sa Marcelo Fernan Bridge?",
+        "answer_text": "Martes sa udto, Oktubre 8, 2024",
+        "answer_start": 81,
+        "answer_end": 109
+    },
+    {
+        "title": "Milayat sa tulay, milutaw human sa 24 oras",
+        "context": "Ang maong tawo nailhan base sa nakuha nga lisensiya diha sa iyang motorsiklo nga gibiyaan lang sa bridge sa wa pa kini moambak sa dagat.",
+        "question": "Unsa ang basihan sa pagkaila sa lalaki nga milayat?",
+        "answer_text": "nakuha nga lisensiya diha sa iyang motorsiklo",
+        "answer_start": 24,
+        "answer_end": 62
+    },
+    {
+        "title": "Milayat sa tulay, milutaw human sa 24 oras",
+        "context": "Nasayran nga 37 anyos nga taga lungsod sa Liloan, Sugbo ang namatay.",
+        "question": "Pila ang edad sa lalaki nga namatay?",
+        "answer_text": "37 anyos",
+        "answer_start": 10,
+        "answer_end": 18
+    },
+    {
+        "title": "Milayat sa tulay, milutaw human sa 24 oras",
+        "context": "Usa sa kabanay ang dali nga miadto sa tulay ug mikonpirmar nga iyang pag-umangkon ang lalaki, apan nagdumili na sab ang maong kabanay sa pagbutyag kon unsay nagtukmod niini nga maghikog.",
+        "question": "Kinsa ang mikonpirmar nga ang lalaki mao ang iyang pag-umangkon?",
+        "answer_text": "Usa sa kabanay",
+        "answer_start": 0,
+        "answer_end": 13
+    },
+    {
+        "title": "Milayat sa tulay, milutaw human sa 24 oras",
+        "context": "Nakita sa CCTV camera sa buhatan sa Maritime nga adunay tawo miambak hinungdan nga gilusad gilayong ang search and rescue human sa hitabo, apan wa igkita sa mga rescuer ang maong tawo.",
+        "question": "Unsa ang nakakita sa lalaki nga miambak sa tulay?",
+        "answer_text": "CCTV camera sa buhatan sa Maritime",
+        "answer_start": 8,
+        "answer_end": 42
+    },
+    {
+        "title": "Milayat sa tulay, milutaw human sa 24 oras",
+        "context": "Miyerkules, Oktubre 9 sa pasado alas 3:00 sa hapon usa ka mananagat ang nakabantay sa lawas nga naglutaw sa Mactan Channel.",
+        "question": "Kinsa ang nakabantay sa lawas nga naglutaw sa Mactan Channel?",
+        "answer_text": "usa ka mananagat",
+        "answer_start": 39,
+        "answer_end": 54
+    },
+    {
+        "title": "Milayat sa tulay, milutaw human sa 24 oras",
+        "context": "Miyerkules, Oktubre 9 sa pasado alas 3:00 sa hapon usa ka mananagat ang nakabantay sa lawas nga naglutaw sa Mactan Channel.",
+        "question": "Kanos-a nakit-an ang lawas nga naglutaw?",
+        "answer_text": "Miyerkules, Oktubre 9 sa pasado alas 3:00 sa hapon",
+        "answer_start": 0,
+        "answer_end": 38
+    },
+    {
+        "title": "Milayat sa tulay, milutaw human sa 24 oras",
+        "context": "Ang maong tawo nailhan base sa nakuha nga lisensiya diha sa iyang motorsiklo nga gibiyaan lang sa bridge sa wa pa kini moambak sa dagat.",
+        "question": "Asa gibyaan sa lalaki ang iyang motorsiklo?",
+        "answer_text": "sa bridge",
+        "answer_start": 76,
+        "answer_end": 85
+    },
+    {
+        "title": "Milayat sa tulay, milutaw human sa 24 oras",
+        "context": "Nakita sa CCTV camera sa buhatan sa Maritime nga adunay tawo miambak hinungdan nga gilusad gilayong ang search and rescue human sa hitabo, apan wa igkita sa mga rescuer ang maong tawo.",
+        "question": "Unsa ang gilusad human sa pag-ambak sa lalaki?",
+        "answer_text": "search and rescue",
+        "answer_start": 88,
+        "answer_end": 104
+    },
+    {
+        "title": "Milayat sa tulay, milutaw human sa 24 oras",
+        "context": "Milutaw na ug nahaw-as ang lawas niadtong lalaki nga milayat sa Marcelo Fernan Bridge niadtong Martes sa udto, Oktubre 8, 2024 paglabay sa 24 oras.",
+        "question": "Paglabay sa pila ka oras milutaw ang lawas sa lalaki?",
+        "answer_text": "24 oras",
+        "answer_start": 112,
+        "answer_end": 119
+    }
+]
