@@ -1,3 +1,6 @@
 .vscode
 .env
 myenv/
+.DS_store
+venv3-12
+__pycache__

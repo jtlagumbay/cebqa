@@ -3,6 +3,11 @@ from sklearn_crfsuite.metrics import *
 import os
 import re
 import json
+from utils import *
+import time
+#### Constants
+GIVEN_NAME = "Given Name"
+SURNAME = "Surname"
 
 ###### Functions for NER tagging from CebuaNER
 def read_clusters(cluster_file):
@@ -96,46 +101,53 @@ def get_person_names(sentence, stop_words):
 
     return [tokenize_sentence[i] for i in range(len(pred[0])) if "PER" in pred[0][i] and tokenize_sentence[i].lower() not in stop_words]
 
+def mark_name(name, type):
+    print(name, type)
 
 if __name__ == "__main__":
 
     script_dir = os.path.dirname(os.path.realpath(__file__))
     data_dir = os.path.join(script_dir, '..', 'data')
 
+    timestamp = time.strftime("%Y%m%d-%H%M%S")
+
     model_path = os.path.join(script_dir, 'CebuaNER')
     cebtenten_path = os.path.join(script_dir, 'cebtenten.tsv')
     stop_words_path = os.path.join(script_dir, 'stop_words.json')
-    person_names_path = os.path.join(script_dir, 'person_names.json')
+    person_names_path = os.path.join(script_dir, 'person_names_map.json')
     article_path = os.path.join(data_dir, 'superbalita-articles-20241109-052649.json')
+
 
 
     crf = joblib.load(model_path)
     word2cluster = read_clusters(cebtenten_path)
     stop_words = []
 
-    with open(stop_words_path, 'r', encoding='utf-8') as f:
-        stop_words = json.load(f)
+    stop_words = read_file(stop_words_path)
 
-    with open(article_path, 'r', encoding='utf-8') as f:
-        articles = json.load(f)
+    articles = read_file(article_path)
 
     person_names = []
     article_error_id = []
 
-    for article in articles:
-        print(f"Processing {article["id"]}, {article["title"]}")
-        body = article["body"]
-        persons = get_person_names(body, stop_words)
-        if persons:
-            for person in persons:
-                if person not in person_names:
-                    person_names.append(person)
-        else:
-            article_error_id.append(article["id"])
-            print(f"Error Processing {article["id"]}, {article["title"]}")
+    # Ger person names in article
+
+    # for article in articles[5]:
+    #     print(f"Processing {article["id"]}, {article["title"]}")
+    #     body = article["body"]
+    #     persons = get_person_names(body, stop_words)
+
+    #     if persons:
+    #         for person in persons:
+    #             if person not in person_names:
+    #                 person_names.append(person)
+    #     else:
+    #         article_error_id.append(article["id"])
+    #         print(f"Error Processing {article["id"]}, {article["title"]}")
 
 
-    with open(person_names_path, 'w', encoding='utf-8') as f:
-        json.dump(person_names, f, ensure_ascii=False, indent=4)
+    # with open(person_names_path, 'w', encoding='utf-8') as f:
+    #     json.dump(person_names, f, ensure_ascii=False, indent=4)
+    # write_file()
 
-    print(f"Error id: {article_error_id}")
+    # print(f"Error id: {article_error_id}")
