@@ -12,9 +12,9 @@ SURNAME_MORO = 4
 NOT_NAME = 5
 GIVEN_NAME_EITHER = 6
 
-person_start = 1000
+person_start = 1500
 person_index = person_start
-end_limit = 1500
+end_limit = 2000
 name_cat = {}
 person_names = read_file(get_path([ "data", "person_names_filtered.json"]))    
 
@@ -36,8 +36,8 @@ def mark_name(category):
             close_window()
 
         # Update the label with the next name if available
-        if person_index < len(person_names):
-            name_label.config(text=person_names[person_index])
+        # if person_index < len(person_names):
+        #     name_label.config(text=f"{person_index}.) {person_names[person_index]}")
 
     except Exception as e:
         print(e)
