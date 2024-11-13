@@ -12,9 +12,9 @@ SURNAME_MORO = 4
 NOT_NAME = 5
 GIVEN_NAME_EITHER = 6
 
-person_start = 0
+person_start = 1000
 person_index = person_start
-end_limit = 500
+end_limit = 1500
 name_cat = {}
 person_names = read_file(get_path([ "data", "person_names_filtered.json"]))    
 
@@ -24,7 +24,6 @@ def mark_name(category):
     print(category)
     global person_index 
     try:
-        timestamp = time.strftime("%Y%m%d-%H%M%S")
 
         person_name = person_names[person_index].lower()
         print(person_name)
@@ -41,6 +40,7 @@ def mark_name(category):
             name_label.config(text=person_names[person_index])
 
     except Exception as e:
+        print(e)
         close_window()
 
 def close_window():
@@ -55,8 +55,8 @@ if __name__ == "__main__":
     root.title("Name Identifier")
 
     # # Label to display the name
-    name_label = tk.Label(root, text=person_names[person_index], font=("Helvetica", 16))
-    name_label.pack(pady=20)
+    name_label = tk.Label(root, text=f"{person_index}.) {person_names[person_index]}", font=("Helvetica", 16))
+    name_label.pack(pady=20, fill=tk.BOTH, expand=True)
 
     # Buttons for Given Name and Surname
     name_female_btn = tk.Button(root, text="(1) Female", command=lambda: mark_name(GIVEN_NAME_FEMALE))
