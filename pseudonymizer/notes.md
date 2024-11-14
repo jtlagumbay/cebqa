@@ -15,3 +15,8 @@ filter out names with:
 - punctuations only
 
 "buwagon ang hyphenated: carpio-duterte"
+
+Limitations:
+- foreigner names are replaced with filipino names
+- Street names are replaced or some surnames similar to street names are not replaced
+- alyas are also replaced
