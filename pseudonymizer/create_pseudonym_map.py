@@ -12,9 +12,9 @@ SURNAME_MORO = 4
 NOT_NAME = 5
 GIVEN_NAME_EITHER = 6
 
-person_start = 2500
+person_start = 3000
 person_index = person_start
-end_limit = 3000
+end_limit = 3500
 name_cat = {}
 person_names = read_file(get_path([ "data", "person_names_filtered.json"]))    
 
