@@ -27,7 +27,7 @@ print(name_cat)
 
 # print([key for key, value in name_cat.items() if value == 2])
 for key, value in name_cat.items():
-    if value == 2:
+    if value == 0:
         print(key)
 
 

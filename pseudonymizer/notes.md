@@ -20,3 +20,11 @@ Limitations:
 - foreigner names are replaced with filipino names
 - Street names are replaced or some surnames similar to street names are not replaced
 - alyas are also replaced
+
+Surnames source:
+- Cebuano Surnames (Wikipedia)
+- Filipino Surnames (wikipedia)
+
+Male source:
+- Cebuano Male given names
+- random male given names from our dataset
