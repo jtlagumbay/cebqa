@@ -8,7 +8,7 @@ SURNAME_MORO = 4 # 9
 NOT_NAME = 5 # 261
 GIVEN_NAME_EITHER = 6 # 0
 
-# Combine to one
+###### Combine to one
 # cat1 = read_file(get_path(["pseudonymizer", "person_cat-0-500-20241113-094548"]))
 # cat2 = read_file(get_path(["pseudonymizer", "person_cat-501-1000-20241113-104817"]))
 # cat3 = read_file(get_path(["pseudonymizer", "person_cat-1000-1500-20241113-142806"]))
@@ -23,11 +23,12 @@ GIVEN_NAME_EITHER = 6 # 0
 # write_file(get_path(["data", "name_category.json"]), name_cat)
 
 name_cat = read_file(get_path(["data", "name_category.json"]))
+name_cat = read_file(get_path(["data", "name_category.json"]))
 print(name_cat)
 
-# print([key for key, value in name_cat.items() if value == 2])
-for key, value in name_cat.items():
-    if value == 0:
-        print(key)
+###### Get name per category
+# for key, value in name_cat.items():
+#     if value == 1:
+#         print(key)
 
 
