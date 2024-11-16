@@ -7,8 +7,8 @@ import time
 client = OpenAI()
 
 cebuano_article =     {
-        "title": "Traysikol drayber nalatayan sa trak, patay",
-        "body": "Nalatayan ang lawas sa traysikol drayber sa luyo nga bahin sa ligid sa tilt bed truck sa dihang midusmo ang traysikol sa nagdagan nga trak sa Canjulao Juncion, Barangay Canjulao, Lapu-Lapu City niadtong ala 1:30 sa kaadlawon, Miyerkules, Oktubre 9, 2024. Namatay ang biktima nga usa ka 43 anyos, ulitawo, taga Brgy. Catarman, lungsod sa Cordova. Base sa kuha sa CCTV camera makita nga milahos ang traysikol sa intersection nga mao sab ang pag-agi sa prime mover.  Nalabay ang drayber ug mitugpa sa kilid nga bahin sa trak ug nalatayan ang lawas niini sa mga dagkong ligid sa nagdagan nga trak nga gimaneho sa usa ka 31 anyos nga taga Pinamungajan, Lalawigan sa Sugbo. Dali nga gidala sa Lapu-Lapu City Hospital ang biktima apan gideklarar nga dead on arrival. / "
+        "title": "Criminology student mihunong sa pagtungha",
+        "body": "Di na mopadayon sa pagtuon ang usa ka tinun-an sa Criminology nga giingong gikulata sa mga polis sa Police Station 4 sa Lapu-Lapu City Police Office (LCPO) human nasaypan nga mikawat og biseklita ug chainsaw. Ang 20-anyos nga tinun-an sa Criminology miingon atol sa pakighinabi sa mga tigbalita nga dili na niya ipadayon ang iyang pagtuon sa maong kurso tungod sa nasinati nga pag-abuso sa pulisya. “Dili na sir, way ayo mga polis sir, abusado,” matod sa biktima dihang gipangutana kon mopadayon ba siya sa iyang pagtuon niadtong Miyerkules, Oktubre 9, 2024Ang biktima nga usa ka 2nd year college sa kursong Criminology mitug-an nga wala na siya makatungha sukad niadtong Sabado, Oktubre 5 human sa giingong gikulata sa mga polis diha sa police station niadtong Biyernes, Oktubre 4.“Second year unta mam pero wa ko mu-eskuyla pag Sabado ma'am kay wa ko kadawat, wa ko kahimo sa activity nako,” matod sa biktima. Sa Facebook post sa usa ka sakop sa pamilya sa biktima niadtong Sabado, Oktubre 5, ang estudyante nga giila nga si “Johnrey,” giakusahan nga nangawat og bisikleta ug chainsaw gikan sa panimalay diin siya nagtrabaho isip caretaker sukad sa edad pa og 9 anyos. Samtang, si City Mayor Joelito “Ahong” Abalos, sa iyang Facebook post niadtong Dominggo, Oktubre 6, niingon nga iyang gimanduan ang LCPO sa paglusad og imbestigasyon sa usa ka insidente. Sa taho sa SunStar Cebu niadtong Lunes, Oktubre 7, personal nga gibisita ni Abalos ang tinun-an nga naa sa tambalanan aron mangayo og medikal nga tabang. Sa pinakaulahing update niadtong Miyerkules, Oktubre 9, unom ka mga polis gikan sa Station 4 sa LCPO ang girelibuhan. / CDF "
     }
 
 message = """
@@ -95,4 +95,4 @@ timestamp = time.strftime("%Y%m%d-%H%M%S")
 # Print the dictionary with indentation using json.dumps()
 print(json.dumps(output_dict, indent=4))
 
-write_file(get_path(["prompter", f"qa-article-5-{timestamp}.json"]), output_dict)
+write_file(get_path(["prompter", f"qa-article-6-{timestamp}.json"]), output_dict)

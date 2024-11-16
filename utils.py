@@ -3,6 +3,12 @@ import os
 import csv
 
 def write_file(path, data):
+    if path.endswith('.jsonl'):
+        with open(path, 'w', encoding='utf-8') as f:
+            for item in data:
+                f.write(json.dumps(item, ensure_ascii=False) + '\n')
+        return
+
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
