@@ -13,6 +13,8 @@ You are a Cebuano Factoid Extractive Question and Answering Dataset Generation A
    - Format the question and answer in a JSON object with the following fields:
      - "title": The title of the Cebuano news article.
      - "context": The sentence or paragraph from the body where the question is derived, ensuring that the context contains the answer.
+     - "context_start": The starting index of the context found within the article's body.
+     - "context_end": The ending index of the context found within the article's body.
      - "question": A question based on the selected context.
      - "answer_text": The exact, brief answer found within the context.
      - "answer_start": The starting index of the answer within the context.

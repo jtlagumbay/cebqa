@@ -130,10 +130,12 @@ if __name__ == "__main__":
     # Error names
     error_names = []
     for i, article in enumerate(articles):
-        # if article["id"] != 1566:
+        # if article["id"] != 8:
         #     continue
         print(f"Processing {article["id"]}, {article["title"]}")
+
         body = article["body"]
+        title = article["title"]
         persons = get_person_names(body, stop_words)
         if persons:
             for person in persons:
@@ -141,6 +143,7 @@ if __name__ == "__main__":
                 if pseudonym:
                     new_name = pseudonym[0]['new']
                     body = body.replace(person, new_name.capitalize())
+                    title = title.replace(person, new_name.capitalize())
                 elif "-" in person:
                     hyphenated_surnames = person.split("-")
                     for name in hyphenated_surnames:
@@ -148,6 +151,7 @@ if __name__ == "__main__":
                         if pseudonym:
                             new_name = pseudonym[0]['new']
                             body = body.replace(name, new_name.capitalize())
+                            title = title.replace(person, new_name.capitalize())
                 else:
                     print(f"No Pseudonym found: {article["id"]}: {person}")
                     error_names.append({
@@ -155,11 +159,14 @@ if __name__ == "__main__":
                         'name': person
                     })
                     continue
+                        
+  
         article["pseudonymized_body"] = body
+        article["pseudonymized_title"] = title
         pseudonymized_articles.append(article)
     
     timestamp = time.strftime("%Y%m%d-%H%M%S")
-    write_file(get_path(["pseudonymizer", f"pseudonymized_articles-{timestamp}"]), pseudonymized_articles)
-    write_file(get_path(["pseudonymizer", f"error_names-{timestamp}"]), error_names)
+    write_file(get_path(["pseudonymizer", f"pseudonymized_articles-{timestamp}.json"]), pseudonymized_articles)
+    write_file(get_path(["pseudonymizer", f"error_names-{timestamp}.json"]), error_names)
     
 
