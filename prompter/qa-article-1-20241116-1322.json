@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "title": "Hepe, 2 personnel sa Stn 4 sa LCPO, gibalhin sa PRO7",
+            "context": "Anaa na sa Regional Holding Admin Unit sa Police Regional Office (PRO) 7 ang hepe sa Marigondon Police Station lakip na ang duha ka personnel nga giingong nangulata sa usa ka tinun-an human dudahi nga nangawat sa iyang amo sa miaging semana.",
+            "context_start": 0,
+            "context_end": 176,
+            "question": "Asa gipadangat ang hepe sa Marigondon Police Station?",
+            "answer_text": "Regional Holding Admin Unit sa Police Regional Office (PRO) 7",
+            "answer_start": 66,
+            "answer_end": 113
+        },
+        {
+            "title": "Hepe, 2 personnel sa Stn 4 sa LCPO, gibalhin sa PRO7",
+            "context": "Matod ni Police Lieutenant Colonel Lennon Marjo Abacay, spokesperson ni Police Brigadier General Jorge Abad hepe sa kapulisan sa Central Visayas nga kabahin sa proseso ang pagrelibo sa mga polis kon adunay himuon nga imbestigasyon batok kanila.",
+            "context_start": 177,
+            "context_end": 267,
+            "question": "Kinsa ang spokesperson ni Police Brigadier General Jorge Abad?",
+            "answer_text": "Police Lieutenant Colonel Lennon Marjo Abacay",
+            "answer_start": 35,
+            "answer_end": 77
+        },
+        {
+            "title": "Hepe, 2 personnel sa Stn 4 sa LCPO, gibalhin sa PRO7",
+            "context": "Gipasalig ni Abacay nga ang hepe sa PRO-7 dili modupa sa mga polis kon mapamatud-an nga sad-an sa ilang nahimo.",
+            "context_start": 268,
+            "context_end": 321,
+            "question": "Unsa ang gipasalig ni Abacay bahin sa hepe sa PRO-7?",
+            "answer_text": "dili modupa sa mga polis kon mapamatud-an nga sad-an sa ilang nahimo",
+            "answer_start": 36,
+            "answer_end": 84
+        },
+        {
+            "title": "Hepe, 2 personnel sa Stn 4 sa LCPO, gibalhin sa PRO7",
+            "context": "Klaro man ang position sa atong Regional Director Police Brigadier General Jorge Abad sa ingon ani nga mga sitwasyon, we will never condone any deviations from the police operational procedure.",
+            "context_start": 322,
+            "context_end": 392,
+            "question": "Unsay posisyon ni Police Brigadier General Jorge Abad sa mga sitwasyon nga sama niini?",
+            "answer_text": "dili mo condone sa mga deviations from the police operational procedure",
+            "answer_start": 27,
+            "answer_end": 78
+        },
+        {
+            "title": "Hepe, 2 personnel sa Stn 4 sa LCPO, gibalhin sa PRO7",
+            "context": "Iyang gipasabot nga aron dili makaempluwensya sa himuon nga imbestigasyon kinahanglan sila nga parelibohan sa katungdanan.",
+            "context_start": 393,
+            "context_end": 466,
+            "question": "Nganong kinahanglan nga parelibohan sa katungdanan ang mga polis?",
+            "answer_text": "aron dili makaempluwensya sa himuon nga imbestigasyon",
+            "answer_start": 36,
+            "answer_end": 78
+        },
+        {
+            "title": "Hepe, 2 personnel sa Stn 4 sa LCPO, gibalhin sa PRO7",
+            "context": "Apan mipasabot si Abacay nga ilang hatagan og oportunidad ang matag personnel nga makapresentar sa ilang kaugalingon kung unsa ka tinuod ang pangangkon sa reklamante nga kabahin sa due process.",
+            "context_start": 467,
+            "context_end": 559,
+            "question": "Unsa ang ipasabot ni Abacay sa mga personnel?",
+            "answer_text": "ilang hatagan og oportunidad nga makapresentar sa ilang kaugalingon",
+            "answer_start": 33,
+            "answer_end": 86
+        },
+        {
+            "title": "Hepe, 2 personnel sa Stn 4 sa LCPO, gibalhin sa PRO7",
+            "context": "Una na nga mipahinumdom ang pangulo sa PRO 7 atol sa iyang paglingkod nga sa iyang katungdanan sa tanang polis nga kinahanglang mobalik gyud sila sa basic sa pagpamulis.",
+            "context_start": 560,
+            "context_end": 644,
+            "question": "Unsay giingon sa pangulo sa PRO 7 sa mga polis?",
+            "answer_text": "kinahanglang mobalik gyud sila sa basic sa pagpamulis",
+            "answer_start": 106,
+            "answer_end": 136
+        },
+        {
+            "title": "Hepe, 2 personnel sa Stn 4 sa LCPO, gibalhin sa PRO7",
+            "context": "Kinahanglan nga sundon ang unsay nalatid sa police operational procedure ug kung dunay molapas niini mibahad ang heneral nga iyang silotan kutob sa ilang mahimo pinaagi sa pagpasaka sa kaso.",
+            "context_start": 645,
+            "context_end": 748,
+            "question": "Unsa ang buhaton kung dunay molapas sa police operational procedure?",
+            "answer_text": "mibahad ang heneral nga iyang silotan kutob sa ilang mahimo",
+            "answer_start": 126,
+            "answer_end": 173
+        },
+        {
+            "title": "Hepe, 2 personnel sa Stn 4 sa LCPO, gibalhin sa PRO7",
+            "context": "Naay duha ka personnel nga giingong nangulata sa usa ka tinun-an human dudahi nga nangawat sa iyang amo sa miaging semana.",
+            "context_start": 176,
+            "context_end": 251,
+            "question": "Kinsa ang giingong nangulata sa usa ka tinun-an?",
+            "answer_text": "duha ka personnel",
+            "answer_start": 6,
+            "answer_end": 21
+        },
+        {
+            "title": "Hepe, 2 personnel sa Stn 4 sa LCPO, gibalhin sa PRO7",
+            "context": "Ang hepe sa Marigondon Police Station lakip na ang duha ka personnel nga giingong nangulata sa usa ka tinun-an.",
+            "context_start": 0,
+            "context_end": 176,
+            "question": "Kinsa ang hepe sa Marigondon Police Station?",
+            "answer_text": "hepe sa Marigondon Police Station",
+            "answer_start": 13,
+            "answer_end": 41
+        },
+        {
+            "title": "Hepe, 2 personnel sa Stn 4 sa LCPO, gibalhin sa PRO7",
+            "context": "Gusto nila nga ang mga personnel mahimong makapresentar sa ilang kaugalingon, nga kabahin sa due process.",
+            "context_start": 467,
+            "context_end": 559,
+            "question": "Unsaon nila pagpangayo og due process?",
+            "answer_text": "mahimong makapresentar sa ilang kaugalingon",
+            "answer_start": 75,
+            "answer_end": 102
+        },
+        {
+            "title": "Hepe, 2 personnel sa Stn 4 sa LCPO, gibalhin sa PRO7",
+            "context": "Siyang gipasabot nga ang pagrelibo sa mga polis kabahin sa proseso kon adunay himuon nga imbestigasyon.",
+            "context_start": 177,
+            "context_end": 267,
+            "question": "Unsa ang kabahin sa proseso kung adunay himuon nga imbestigasyon?",
+            "answer_text": "pagrelibo sa mga polis",
+            "answer_start": 53,
+            "answer_end": 76
+        }
+    ]
+}

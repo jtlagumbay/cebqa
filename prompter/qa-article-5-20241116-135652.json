@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Namatay ang biktima nga usa ka 43 anyos, ulitawo, taga Brgy. Catarman, lungsod sa Cordova.",
+            "question": "Unsa ang edad sa biktima nga traysikol drayber?",
+            "answer": "43 anyos"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Namatay ang biktima nga usa ka 43 anyos, ulitawo, taga Brgy. Catarman, lungsod sa Cordova.",
+            "question": "Asa nagpuyo ang biktima?",
+            "answer": "taga Brgy. Catarman, lungsod sa Cordova"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Namatay ang biktima nga usa ka 43 anyos, ulitawo, taga Brgy. Catarman, lungsod sa Cordova.",
+            "question": "Unsa ang sibil status sa biktima?",
+            "answer": "ulitawo"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Base sa kuha sa CCTV camera makita nga milahos ang traysikol sa intersection nga mao sab ang pag-agi sa prime mover.",
+            "question": "Unsa ang nakita sa CCTV camera?",
+            "answer": "milahos ang traysikol sa intersection"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Nalatayan ang lawas sa traysikol drayber sa luyo nga bahin sa ligid sa tilt bed truck sa dihang midusmo ang traysikol sa nagdagan nga trak sa Canjulao Juncion, Barangay Canjulao, Lapu-Lapu City niadtong ala 1:30 sa kaadlawon, Miyerkules, Oktubre 9, 2024.",
+            "question": "Kanus-a nahitabo ang aksidente?",
+            "answer": "ala 1:30 sa kaadlawon, Miyerkules, Oktubre 9, 2024"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Nalatayan ang lawas sa traysikol drayber sa luyo nga bahin sa ligid sa tilt bed truck sa dihang midusmo ang traysikol sa nagdagan nga trak sa Canjulao Juncion, Barangay Canjulao, Lapu-Lapu City niadtong ala 1:30 sa kaadlawon, Miyerkules, Oktubre 9, 2024.",
+            "question": "Asa nahitabo ang aksidente sa traysikol drayber?",
+            "answer": "Canjulao Juncion, Barangay Canjulao, Lapu-Lapu City"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Nalatayan ang lawas sa traysikol drayber sa luyo nga bahin sa ligid sa tilt bed truck sa dihang midusmo ang traysikol sa nagdagan nga trak sa Canjulao Juncion, Barangay Canjulao, Lapu-Lapu City niadtong ala 1:30 sa kaadlawon, Miyerkules, Oktubre 9, 2024.",
+            "question": "Unsa ang gidumalahang sakyanan sa biktima?",
+            "answer": "traysikol"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "nalatayan ang lawas niini sa mga dagkong ligid sa nagdagan nga trak nga gimaneho sa usa ka 31 anyos nga taga Pinamungajan, Lalawigan sa Sugbo.",
+            "question": "Pila ang edad sa drayber sa trak?",
+            "answer": "31 anyos"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "nalatayan ang lawas niini sa mga dagkong ligid sa nagdagan nga trak nga gimaneho sa usa ka 31 anyos nga taga Pinamungajan, Lalawigan sa Sugbo.",
+            "question": "Tagadiin ang drayber sa trak?",
+            "answer": "taga Pinamungajan, Lalawigan sa Sugbo"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Dali nga gidala sa Lapu-Lapu City Hospital ang biktima apan gideklarar nga dead on arrival.",
+            "question": "Asa gidala ang biktima human sa aksidente?",
+            "answer": "Lapu-Lapu City Hospital"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Dali nga gidala sa Lapu-Lapu City Hospital ang biktima apan gideklarar nga dead on arrival.",
+            "question": "Unsa ang kahimtang sa biktima pag-abot sa ospital?",
+            "answer": "dead on arrival"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Base sa kuha sa CCTV camera makita nga milahos ang traysikol sa intersection nga mao sab ang pag-agi sa prime mover.",
+            "question": "Unsa ang gisakyan nga nakalahos sa intersection?",
+            "answer": "traysikol"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "base sa kuha sa CCTV camera makita nga milahos ang traysikol sa intersection nga mao sab ang pag-agi sa prime mover.",
+            "question": "Unsa ang nagtambok sa intersection panahon sa aksidente?",
+            "answer": "prime mover"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "nalatayan ang lawas niini sa mga dagkong ligid sa nagdagan nga trak nga gimaneho sa usa ka 31 anyos nga taga Pinamungajan, Lalawigan sa Sugbo.",
+            "question": "Kinsa ang nagmaneho sa trak nga nalatayan sa biktima?",
+            "answer": "usa ka 31 anyos nga taga Pinamungajan, Lalawigan sa Sugbo"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Nalatayan ang lawas sa traysikol drayber sa luyo nga bahin sa ligid sa tilt bed truck sa dihang midusmo ang traysikol sa nagdagan nga trak sa Canjulao Juncion, Barangay Canjulao, Lapu-Lapu City niadtong ala 1:30 sa kaadlawon, Miyerkules, Oktubre 9, 2024.",
+            "question": "Unsa ang klase sa trak nga naapil sa aksidente?",
+            "answer": "tilt bed truck"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "nalatayan ang lawas niini sa mga dagkong ligid sa nagdagan nga trak nga gimaneho sa usa ka 31 anyos nga taga Pinamungajan, Lalawigan sa Sugbo.",
+            "question": "Unsa ang nahitabo sa lawas sa traysikol drayber?",
+            "answer": "nalatayan sa mga dagkong ligid"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Namatay ang biktima nga usa ka 43 anyos, ulitawo, taga Brgy. Catarman, lungsod sa Cordova.",
+            "question": "Kinsa ang biktima sa aksidente?",
+            "answer": "usa ka 43 anyos, ulitawo, taga Brgy. Catarman, lungsod sa Cordova"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Base sa kuha sa CCTV camera makita nga milahos ang traysikol sa intersection nga mao sab ang pag-agi sa prime mover.",
+            "question": "Unsa ang nakuhanan sa CCTV camera?",
+            "answer": "milahos ang traysikol sa intersection"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Dali nga gidala sa Lapu-Lapu City Hospital ang biktima apan gideklarar nga dead on arrival.",
+            "question": "Unsa ang kahimtang sa biktima sa dihang gidala sa ospital?",
+            "answer": "dead on arrival"
+        },
+        {
+            "title": "Traysikol drayber nalatayan sa trak, patay",
+            "context": "Namatay ang biktima nga usa ka 43 anyos, ulitawo, taga Brgy. Catarman, lungsod sa Cordova.",
+            "question": "Giunsa pagdescriber ang biktima?",
+            "answer": "43 anyos, ulitawo, taga Brgy. Catarman, lungsod sa Cordova"
+        }
+    ]
+}

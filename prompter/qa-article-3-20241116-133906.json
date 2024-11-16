@@ -1,0 +1,174 @@
+{
+    "data": [
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "43 anyos, nga habal-habal drayber sa dihang gidunggab sa iyang gisingil sa utang niadtong alas 6:16 sa gabii, Martes, Oktubre 8, 2024.",
+            "context_start": 20,
+            "context_end": 73,
+            "question": "Unsay edad sa biktima nga habal-habal drayber?",
+            "answer_text": "43 anyos",
+            "answer_start": 37,
+            "answer_end": 48
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Ang insedente nahitabo sa Purok Avocado, Sitio Ylaya, lungsod sa Liloan, Cebu.",
+            "context_start": 82,
+            "context_end": 140,
+            "question": "Asa nahitabo ang insidente?",
+            "answer_text": "Purok Avocado, Sitio Ylaya, lungsod sa Liloan, Cebu",
+            "answer_start": 99,
+            "answer_end": 139
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Samtang misibat ang 20 anyos nga suspek nga gitago sa pangala’ng Martinito, usa usab ka habal-habal drayber nga silingan sa biktima.",
+            "context_start": 141,
+            "context_end": 179,
+            "question": "Kinsa ang suspek sa insidente?",
+            "answer_text": "Martinito",
+            "answer_start": 179,
+            "answer_end": 188
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Nasayran nga ang asawa sa suspek nakautang og P1,000 ngadto sa biktima nga gisigehan og panangil apan giingong gahi mobayad ang maong utangan.",
+            "context_start": 205,
+            "context_end": 284,
+            "question": "Pila ang utang nga giingong gahi mobayad?",
+            "answer_text": "P1,000",
+            "answer_start": 231,
+            "answer_end": 236
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Sulod sa makatulo ka higayon nga gipaningil sa biktima ang magtiayon nga nakautang niya.",
+            "context_start": 285,
+            "context_end": 324,
+            "question": "S pila ka higayon gipaningil ang biktima?",
+            "answer_text": "tulo",
+            "answer_start": 289,
+            "answer_end": 293
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "“Nagtuo ang biktima nga duna nay kwarta kay naka-down gud sa bag-ong motor.”",
+            "context_start": 325,
+            "context_end": 370,
+            "question": "Nganong nagtuo ang biktima nga mabayran na siya?",
+            "answer_text": "naka-down gud sa bag-ong motor",
+            "answer_start": 351,
+            "answer_end": 377
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Apan wala gihapon mobayad ang suspek ug asawa niini.",
+            "context_start": 371,
+            "context_end": 411,
+            "question": "Kinsa ang wala mobayad sa utang?",
+            "answer_text": "suspek ug asawa",
+            "answer_start": 389,
+            "answer_end": 409
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Nianang gabii gitawag ang biktima ni alyas Martinito sa dihang gikamay niya ang biktima nga paduolon.",
+            "context_start": 412,
+            "context_end": 460,
+            "question": "Kinsa ang gitawag nga biktima ni alyas Martinito?",
+            "answer_text": "biktima",
+            "answer_start": 429,
+            "answer_end": 436
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Gamit ang kitchen si alyas Martinito mihana og duslak ngadto sa biktima apan wa kini ma-intimano sa dihang giwakli ra sab sa asawa sa suspek ang kamot niini.",
+            "context_start": 461,
+            "context_end": 537,
+            "question": "Unsang butang ang gigamit ni Martinito aron gidunggab ang biktima?",
+            "answer_text": "kitchen",
+            "answer_start": 485,
+            "answer_end": 492
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Gipadadala ang biktima sa Danao City District Hospital aron nga magpaalim sa iyang samad.",
+            "context_start": 538,
+            "context_end": 586,
+            "question": "Asa gidala ang biktima aron magpaalim sa iyang samad?",
+            "answer_text": "Danao City District Hospital",
+            "answer_start": 551,
+            "answer_end": 580
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Si Goc-ong miingon nga nagpaabot sila sa suspek human mipahibalo ang kabanay nga mo-surrender.",
+            "context_start": 587,
+            "context_end": 637,
+            "question": "Kinsa ang nagpaabot sa suspek nga mo-surrender?",
+            "answer_text": "Goc-ong",
+            "answer_start": 593,
+            "answer_end": 600
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Giandam na sab nila ang kasong frustrated murder batok sa suspek.",
+            "context_start": 638,
+            "context_end": 676,
+            "question": "Unsa nga kaso ang giandam batok sa suspek?",
+            "answer_text": "frustrated murder",
+            "answer_start": 647,
+            "answer_end": 663
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Samdan sa iyang wala nga bahin sa ilok ang 43 anyos.",
+            "context_start": 20,
+            "context_end": 63,
+            "question": "Asa samdan ang biktima?",
+            "answer_text": "wala nga bahin sa ilok",
+            "answer_start": 37,
+            "answer_end": 55
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Ang insedente nahitabo sa Purok Avocado, Sitio Ylaya, lungsod sa Liloan, Cebu.",
+            "context_start": 82,
+            "context_end": 140,
+            "question": "Hain nga lungsod nahitabo ang insidente?",
+            "answer_text": "Liloan",
+            "answer_start": 133,
+            "answer_end": 139
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Mao nga iyang gibalikbalikan sa pagpaningil,” matod pa ni PCMS Goc-ong.",
+            "context_start": 325,
+            "context_end": 340,
+            "question": "Kinsa ang nagkanayon nga gibalikbalikan sa pagpaningil?",
+            "answer_text": "biktima",
+            "answer_start": 335,
+            "answer_end": 342
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Gamit ang kitchen si alyas Martinito mihana og duslak ngadto sa biktima.",
+            "context_start": 461,
+            "context_end": 491,
+            "question": "Unsa ang gibuhat ni Martinito?",
+            "answer_text": "mihana og duslak",
+            "answer_start": 474,
+            "answer_end": 490
+        },
+        {
+            "title": "Naningil sa utang, gidunggab",
+            "context": "Apan wala gihapon mobayad ang suspek ug asawa niini.",
+            "context_start": 371,
+            "context_end": 411,
+            "question": "Kanus-a nagbayad ang suspek ug asawa?",
+            "answer_text": "wala gihapon",
+            "answer_start": 375,
+            "answer_end": 392
+        }
+    ]
+}
