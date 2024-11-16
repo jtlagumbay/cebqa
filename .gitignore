@@ -4,3 +4,4 @@ myenv/
 .DS_store
 venv3-12
 __pycache__
+data/pseudonyms-20241116-091919.json

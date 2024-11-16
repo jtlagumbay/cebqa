@@ -1,4 +1,5 @@
 from utils import *
+import time
 
 GIVEN_NAME_MALE = 0 # 1131
 GIVEN_NAME_FEMALE = 1 # 684
@@ -23,12 +24,70 @@ GIVEN_NAME_EITHER = 6 # 0
 # write_file(get_path(["data", "name_category.json"]), name_cat)
 
 name_cat = read_file(get_path(["data", "name_category.json"]))
-name_cat = read_file(get_path(["data", "name_category.json"]))
-print(name_cat)
+names_female = read_file(get_path(["data", "females-20241116-085707.json"]))
+names_male = read_file(get_path(["data", "males-20241116-085707.json"]))
+surnames_other = read_file(get_path(["data", "surnames-20241116-085707.json"]))
+# stop_words = read_file(get_path(["data", "stop_words.json"]))
+# stop_words = read_file(get_path(["daata", "stop_words.json"]))
+# surnames_chinese = read_file(get_path(["data", "surnames_chinese.csv"]))
+# surnames_moro = read_file(get_path(["data", "surnames_moro.csv"]))
 
+
+pseudonym_map = []
+new_stop_words = []
+error_names = []
 ###### Get name per category
 # for key, value in name_cat.items():
 #     if value == 1:
 #         print(key)
 
+# Iterate each name in name_cat
+print(f"Starting {len(name_cat)} names")
+for index, (name, cat) in enumerate(name_cat.items()):
+    print(f"{index} Processing {cat}: {name}")
+    new_name = ""
+    # if index >= 5:
+    #     break
+    if cat == GIVEN_NAME_MALE:
+        for i, name_male in enumerate (names_male):
+            if name_male["used"] == '0' and name != name_male["name"]:
+                new_name = name_male["name"]
+                names_male[i]["used"] = 1
+                break
+        else:
+            print("All male names are used")
+    elif cat == GIVEN_NAME_FEMALE:
+        for i, name_female in enumerate (names_female):
+            if name_female["used"] == '0' and name != name_female["name"]:
+                new_name = name_female["name"]
+                names_female[i]["used"] = 1
+                break
+        else:
+            print("All female names are used")
+    elif cat == SURNAME_OTHER or cat == SURNAME_CH or cat == SURNAME_MORO:
+        for i, surname_other in enumerate (surnames_other):
+            if surname_other["used"] == '0' and name != surname_other["name"]:
+                new_name = surname_other["name"]
+                surnames_other[i]["used"] = 1
+                break
+        else:
+            print("All surnames are used")
+    elif cat == NOT_NAME:
+        new_stop_words.append(name)
+    else:
+        error_names.append(name)
 
+    if cat != NOT_NAME:
+        pseudo = {
+            "id": len(pseudonym_map),
+            "original": name,
+            "category": cat,
+            "new": new_name
+        }
+        pseudonym_map.append(pseudo)
+
+timestamp = time.strftime("%Y%m%d-%H%M%S")
+write_file(get_path(["pseudonymizer", f"pseudonyms-{timestamp}.json"]), pseudonym_map)
+write_file(get_path(["pseudonymizer", f"new_stop_words-{timestamp}.json"]), new_stop_words)
+write_file(get_path(["pseudonymizer", f"error_names-{timestamp}.json"]), error_names)
+print("done")
