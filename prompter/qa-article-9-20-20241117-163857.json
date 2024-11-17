@@ -1,0 +1,475 @@
+[
+    {
+        "id": "batch_req_67399850b3c4819088e9d21dc91c850c",
+        "custom_id": "article-10",
+        "response": {
+            "status_code": 200,
+            "request_id": "4d34a24ab455a398d01c3d5b49b82dcb",
+            "body": {
+                "id": "chatcmpl-AUTmcgkMRfEILpHQ3hbeEHq3UIKHu",
+                "object": "chat.completion",
+                "created": 1731827690,
+                "model": "gpt-4o-mini-2024-07-18",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"data\":[{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Gimando ni Police Regional Office (PRO) 7 Director Renz. Gen. Jorge Dindinrin ang pagrelibo sa station commander sa Marigondon Police Station ug laing lima ka personnel nga nadestino sa station kalabot sa giingong pagdagmal sa usa ka tinun-an sa Criminology.\",\"question\":\"Kinsa ang nagmando sa pagrelibo sa station commander sa Marigondon Police Station?\",\"answer\":\"Police Regional Office (PRO) 7 Director Renz. Gen. Jorge Dindinrin.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Gawas sa hepe sa Marigondon Police Station, gi-relieve usab sa puwesto mao ang chief clerk, desk officer, imbestigador, ug ang duha ka polis nga gipasanginlan sa pagkulata sa biktima.\",\"question\":\"Kinsa ang mga girelibohan gawas sa hepe sa Marigondon Police Station?\",\"answer\":\"chief clerk, desk officer, imbestigador, ug ang duha ka polis.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"“Na-relieve po sila pending investigation. According to him (Dindinrin), kung mapapatunayan talaga na may kinalaman talaga sila dito hindi sila mangingiming sampahan sila ng kaso.” matod niya.\",\"question\":\"Unsang butang ang mahitabo sa mga girelibohan kon mapamatud-an nga sila adunay kalambigitan sa insidente?\",\"answer\":\"sampahan sila ng kaso.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"“Pinaiimbestigahan na po ito as we speak at ‘yung ating biktima ay kukuhanan na nila ng statement para makapagsampa po ng kaukulang reklamo,” dugang niya.\",\"question\":\"Unsay gipaabot sa biktima nga buhaton sa kapulisan?\",\"answer\":\"kukuhanan na nila ng statement para makapagsampa po ng kaukulang reklamo.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Sa post sa pamilya sa biktima, niadtong Oktubre 4 sa gabii, siya ug ang tag-iya sa balay diin siya nag-alagad isip caretaker sukad sa edad nga nuybe, miadto sa Marigondon Police Station aron i-report ang insidente sa pagpanulis.\",\"question\":\"Kanus-a miadto ang biktima sa Marigondon Police Station aron i-report ang insidente?\",\"answer\":\"Oktubre 4 sa gabii.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Naglambigit sa tulo ka mga suspek diin nakuha ang usa ka bisikleta ug usa ka chainsaw.\",\"question\":\"Unsa ang mga butang nga nakuha sa tulo ka mga suspek?\",\"answer\":\"usa ka bisikleta ug usa ka chainsaw.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Apan ang biktima giingong gipasanginlan sa kapulisan nga maoy nikawat sa maong mga butang.\",\"question\":\"Unsa ang giingon sa kapulisan bahin sa biktima sa kaso sa pagpanulis?\",\"answer\":\"giingong gipasanginlan.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Giingong gipasidan-an siya sa kapulisan sa posibleng mahitabo kon dili siya mokooperar sa ilang imbestigasyon ug matod pa gipaluhod siya dihang gikulata sa mga polis.\",\"question\":\"Unsay gipasidan-an sa kapulisan sa biktima?\",\"answer\":\"posibleng mahitabo kon dili siya mokooperar.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Gibuhian siya sa mga awtoridad human mapamatud-an nga dili sad-an sa mga kaso ug pagkahuman gidala sa usa ka ospital alang sa pagtambal sa mga samad nga iyang naangkon gikan sa pagdagmal.\",\"question\":\"Asa gidala ang biktima human gibuhian sa mga awtoridad?\",\"answer\":\"usa ka ospital alang sa pagtambal.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Una nang nimando si Lapu-Lapu City Mayor Joelito “Ahong” Chan sa kapulisan sa paghimo og lawom nga imbestigasyon sa insidente.\",\"question\":\"Kinsa ang unang mimumando sa kapulisan alang sa imbestigasyon sa insidente?\",\"answer\":\"Lapu-Lapu City Mayor Joelito “Ahong” Chan.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Sa press conference sa Camp Crame, ang bag-ong na-promote nga hepe sa PNP Public Information Office nga si Renz. Gen. Margilyn Abelardo niingon nga gawas sa hepe sa Marigondon Police Station, gi-relieve usab sa puwesto.\",\"question\":\"Asa nag-held ang press conference ni Renz. Gen. Margilyn Abelardo?\",\"answer\":\"Camp Crame.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Gawas sa hepe sa Marigondon Police Station, gi-relieve usab sa puwesto mao ang chief clerk, desk officer, imbestigador, ug ang duha ka polis.\",\"question\":\"Pila ka personnel ang girelibohan sa Marigondon Police Station?\",\"answer\":\"lima ka personnel.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Ang biktima giingong gipasanginlan sa kapulisan nga maoy nikawat sa maong mga butang.\",\"question\":\"Unsa ang pangutana sa kapulisan sa biktima?\",\"answer\":\"nikawat sa maong mga butang.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Matud pa ni Balagtas-Balaguer, “Na-relieve po sila pending investigation.\",\"question\":\"Kinsang opisyal ang nag-ingon nga na-relieve ang mga polis pending investigation?\",\"answer\":\"Balagtas-Balaguer.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Ang biktima gidala sa usa ka ospital alang sa pagtambal sa mga samad nga iyang naangkon gikan sa pagdagmal.\",\"question\":\"Unsa ang giante sa biktima human sa pagdagmal?\",\"answer\":\"gidala sa usa ka ospital alang sa pagtambal.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Dugang pa, siya ug ang tag-iya sa balay diin siya nag-alagad isip caretaker sukad sa edad nga nuybe, miadto sa Marigondon Police Station.\",\"question\":\"Kinsa ang nag-alagad isip caretaker sa balay sukad sa edad nga nuybe?\",\"answer\":\"ang biktima.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Giingong gipasidan-an siya sa kapulisan sa posibleng mahitabo kon dili siya mokooperar sa ilang imbestigasyon.\",\"question\":\"Unsa ang posible nga mahitabo sa biktima sumala sa kapulisan?\",\"answer\":\"posibleng mahitabo kon dili siya mokooperar.\"},{\"title\":\"Hepe girelibohan tungod sa ‘pagpangulata’\",\"context\":\"Ang bag-ong na-promote nga hepe sa PNP Public Information Office nga si Renz. Gen. Margilyn Abelardo niingon nga gawas sa hepe sa Marigondon Police Station.\",\"question\":\"Kinsa ang bag-ong na-promote nga hepe sa PNP Public Information Office?\",\"answer\":\"Renz. Gen. Margilyn Abelardo.\"}]}",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 1705,
+                    "completion_tokens": 1773,
+                    "total_tokens": 3478,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0,
+                        "audio_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0,
+                        "audio_tokens": 0,
+                        "accepted_prediction_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_0ba0d124f1"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_67399850bd0c8190b47176fb3b3fe018",
+        "custom_id": "article-11",
+        "response": {
+            "status_code": 200,
+            "request_id": "a06fad662d8cb0e0b10ef23ac4c1274b",
+            "body": {
+                "id": "chatcmpl-AUTme2XD5h4eEb3JB8GKMxpU7p6Is",
+                "object": "chat.completion",
+                "created": 1731827692,
+                "model": "gpt-4o-mini-2024-07-18",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"data\":[{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Nagpabilin nga hapsay ug malinawon ang katapusang adlaw sa filing sa Certificates of Candidacy (COC) sa buhatan sa Commission on Election (Comelec) sa Dakbayan sa Sugbo.\",\"question\":\"Unsa ang kahimtang sa katapusang adlaw sa filing sa COC sa Cebu City?\",\"answer\":\"hapsay ug malinawon.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Matod ni Police Lieutenant Colonel Charie Agnes Abella, deputy city director for operation sa Cebu City Police Office (CCPO) nga hugot nila nga gi-monitor ang buhatan sa Cebu City Comelec.\",\"question\":\"Kinsa ang nagkanayon nga hugot nilang gi-monitor ang buhatan sa Comelec?\",\"answer\":\"Police Lieutenant Colonel Charie Agnes Abella.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Gidugangan sa CCPO ang personnel nga gi-deploy sa Comelec lakip na ang pagbutang og area security sa mga dapit nga dunay panagtapok sa mga dumadapig sa mga kandidato.\",\"question\":\"Unsa ang gibuhat sa CCPO aron masiguro ang seguridad sa Comelec?\",\"answer\":\"Gidugangan ang personnel nga gi-deploy ug pagbutang og area security.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Tanang seguridad ug monitoring gi-deploy sa mga dapit nga dunay panagtapok sa mga dumadapig sa nagka lainlaing political aspirant.\",\"question\":\"Asa gi-deploy ang mga personnel sa CCPO?\",\"answer\":\"Sa mga dapit nga dunay panagtapok sa mga dumadapig.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"“Malinawon ra ang last day sa filing sa COC's, those are the things would expect to happened after filing sa COCs,” matod ni Abella.\",\"question\":\"Unsa ang gikasulti ni Abella mahitungod sa last day sa filing sa COC?\",\"answer\":\"Malinawon ra ang last day sa filing sa COC's.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Ang kapulisan nangandam na sa pagsugod sa election period sunod tuig.\",\"question\":\"Kinsa ang nagpangandam sa election period sunod tuig?\",\"answer\":\"Ang kapulisan.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Sama sa naandan molusad og inventory ang CCPO sa ilang mga personnel kung duna ba silay mga kabanay nga mi-file og COC.\",\"question\":\"Unsa ang gibuhat sa CCPO sa ilang mga personnel?\",\"answer\":\"Molusad og inventory.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Samtang mohimo usab og monitoring ug investigation ang kapulisan kon adunay posibling pagkatap sa kuwarta gikan sa ilegal nga drugas.\",\"question\":\"Unsa ang gibuhat sa kapulisan kon adunay posibling pagkatap sa kuwarta?\",\"answer\":\"Mohi mo og monitoring ug investigation.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Mipasabot hinuon si Abella nga wala pa sila makadawat og impormasyon labot sa maong kasayuran.\",\"question\":\"Unsa ang giingon ni Abella mahitungod sa impormasyon sa illegal nga drugas nga nagsuporta sa candidat?\",\"answer\":\"Wala pa sila makadawat og impormasyon.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Ang CCPO nga nagmonito sa Comelec nagsiguro nga ang tanan sa mga nagpangampanya naa sa maayong kahimtang.\",\"question\":\"Kinsa ang nagmonitor sa Comelec nga nagsiguro sa maayong kahimtang sa mga nagpangampanya?\",\"answer\":\"Ang CCPO.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Malinawon ra ang last day sa filing sa COC's, those are the things would expect to happened after filing sa COCs.\",\"question\":\"Unsa ang mga butang nga gipaabot human sa filing sa COCs?\",\"answer\":\"Malinawon ra ang last day.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Nagpatunhay ang CCPO sa dagan sa trapiko sa dapit nga adunay tapok.\",\"question\":\"Unsa ang gibuhat sa CCPO aron mapanatili ang dagan sa trapiko?\",\"answer\":\"Nagpatunhay sa dagan sa trapiko.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Ang mga posicion sa kapulisan gi-deploy sa mga lugar nga dunay kausaban.\",\"question\":\"Unsa ang gibuhat sa kapulisan human sa filing sa COC?\",\"answer\":\"Gi-deploy ang mga posicion.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Pinaagi sa pag-setup og seguridad, giwasan ang mga panagtapok nga mahimong magubot.\",\"question\":\"Unsa ang tumong sa pag-setup og seguridad sa Comelec?\",\"answer\":\"Giwasan ang mga panagtapok nga mahimong magubot.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Gusto sa mga politiko nga maipakita ang ilang suporta sa mga dumadapig sa filing.\",\"question\":\"Nganong importante ang suporta sa mga politiko sa filing sa COC?\",\"answer\":\"Aron maipakita ang ilang suporta.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Nagaapektar ang presence sa mga supporter sa seguridad sa Comelec.\",\"question\":\"Unsa ang epekto sa presensya sa mga supporter sa seguridad sa Comelec?\",\"answer\":\"Nagaapektar.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Gikinahanglan nga magmonitor ang kapulisan sa mga ilegal nga drugas nga posibleng moapekto sa election.\",\"question\":\"Ano ang kinahanglan buhaton sa kapulisan alang sa kasiguraduhan sa election?\",\"answer\":\"Magmonitor sa mga ilegal nga drugas.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Ang CCPO nag-prepare sa kasamtangang proseso sa election aron masiguro ang kaayo.\",\"question\":\"Unsa ang giandam sa CCPO sa pag-atubang sa election?\",\"answer\":\"Ang kasamtangang proseso.\"},{\"title\":\"Filing sa COC sa Cebu City, malinawon\",\"context\":\"Nag-apod-apod ang Police sa impormasyon nga ang uban sa mga kandidato nagpatik og mga plataporma sa Comelec.\",\"question\":\"Unsay gibuhat sa mga kandidato sa Comelec?\",\"answer\":\"Nagpatik og mga plataporma.\"}]}",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 1565,
+                    "completion_tokens": 1498,
+                    "total_tokens": 3063,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0,
+                        "audio_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0,
+                        "audio_tokens": 0,
+                        "accepted_prediction_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_0ba0d124f1"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_67399850c510819084e110db6c3e7b8f",
+        "custom_id": "article-12",
+        "response": {
+            "status_code": 200,
+            "request_id": "2a1e2cb3f142695418a3724be77bad5b",
+            "body": {
+                "id": "chatcmpl-AUTmbquTrCsdG0X5ofSNHYkDs7g31",
+                "object": "chat.completion",
+                "created": 1731827689,
+                "model": "gpt-4o-mini-2024-07-18",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"data\":[{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Ang biktima giila nga si Johnrey Dupal-ag Abellano, 26, minyo lineman sa CEBECO 1, taga Sitio Ilaya Brgy. Poblacion, lungsod sa Dalaguete.\",\"question\":\"Kinsa ang biktima nga nahitabuan sa insidente sa lineman?\",\"answer\":\"Johnrey Dupal-ag Abellano.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Ang maong insidente nahitabo sa national highway sa Barangay Cawayan, lungsod sa Dalaguete, Sugbo niadtong alas 3:30 sa hapon, Martes, Oktubre 8, 2024.\",\"question\":\"Kanus-a nahitabo ang insidente nga nagpatay sa lineman?\",\"answer\":\"Oktubre 8, 2024.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Si Police Major Necasio Abellana, hepe sa Dalaguete Police Station nga nahinabi sa Superbalita Cebu miingon nga ang biktima nag-ayo sa linya sa kuryenti sa maong dapit apan aksidente nga nakahikap sa live wire hinungdan nga nakuryentihan.\",\"question\":\"Unsa ang hinungdan nganong nakuryentihan ang biktima?\",\"answer\":\"nakahikap sa live wire.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Bugtong ang iya na lang ‘protected post belt’ ang nagpugong sa lineman nga dili mahulog gikan sa poste human kini nakuryentihan patay ug nagbitay sa electric post sa CEBECO.\",\"question\":\"Unsa ang nagpugong sa lineman nga dili mahulog gikan sa poste?\",\"answer\":\"‘protected post belt’.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Gitabang si Abellano sa iyang mga kauban ug mga rescuers ug daling gidala sa Cardinal Rosales Hospital apan si Dr. Abellanosa Abellera mideklarar sa biktima nga dead-on-arrival (DOA).\",\"question\":\"Asa gidala ang biktima human sa insidente?\",\"answer\":\"Cardinal Rosales Hospital.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Nakalitan ang mga kauban kay kalit ra man siyang mikirig nakasaghid og live wire.\",\"question\":\"Unsa ang reaksyon sa mga kauban sa biktima pagkahibalo sa insidente?\",\"answer\":\"Nakalitan.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Ang biktima giila nga si Johnrey Dupal-ag Abellano, 26, minyo lineman sa CEBECO 1, taga Sitio Ilaya Brgy. Poblacion, lungsod sa Dalaguete.\",\"question\":\"Pila ka tuig ang edad sa biktima nga si Johnrey Dupal-ag Abellano?\",\"answer\":\"26.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Bugtong ang iya na lang ‘protected post belt’ ang nagpugong sa lineman nga dili mahulog gikan sa poste.\",\"question\":\"Unsa ang gibuhat sa lineman nga si Johnrey Dupal-ag Abellano sa poste?\",\"answer\":\"nag-ayo sa linya sa kuryenti.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Ang maong insidente nahitabo sa national highway sa Barangay Cawayan, lungsod sa Dalaguete, Sugbo niadtong alas 3:30 sa hapon, Martes, Oktubre 8, 2024.\",\"question\":\"Asa nahitabo ang insidente sa lineman?\",\"answer\":\"national highway sa Barangay Cawayan.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Si Police Major Necasio Abellana, hepe sa Dalaguete Police Station nga nahinabi sa Superbalita Cebu miingon nga ang biktima nag-ayo sa linya sa kuryenti sa maong dapit.\",\"question\":\"Kinsa ang hepe sa Dalaguete Police Station nga nahinabi bahin sa insidente?\",\"answer\":\"Police Major Necasio Abellana.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Pagkatapos sa insidente, si Dr. Abellanosa Abellera mideklarar sa biktima nga dead-on-arrival (DOA).\",\"question\":\"Unsa ang gipahayag ni Dr. Abellanosa Abellera mahitungod sa biktima?\",\"answer\":\"dead-on-arrival (DOA).\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Ang biktima giila nga si Johnrey Dupal-ag Abellano, 26, minyo lineman sa CEBECO 1, taga Sitio Ilaya Brgy. Poblacion, lungsod sa Dalaguete.\",\"question\":\"Asa gikan ang biktima nga si Johnrey Dupal-ag Abellano?\",\"answer\":\"Sitio Ilaya Brgy. Poblacion, lungsod sa Dalaguete.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Ang maong insidente nahitabo sa national highway sa Barangay Cawayan, lungsod sa Dalaguete, Sugbo niadtong alas 3:30 sa hapon.\",\"question\":\"Unsang oras nahitabo ang insidente sa lineman?\",\"answer\":\"alas 3:30 sa hapon.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Si Police Major Necasio Abellana, hepe sa Dalaguete Police Station nga nahinabi sa Superbalita Cebu miingon nga ang biktima nag-ayo sa linya sa kuryenti.\",\"question\":\"Kinsa ang nahinabi sa Superbalita Cebu bahin sa insidente?\",\"answer\":\"Police Major Necasio Abellana.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Gitabang si Abellano sa iyang mga kauban ug mga rescuers ug daling gidala sa Cardinal Rosales Hospital.\",\"question\":\"Kinsa ang niabot aron mohatag og tabang sa biktima?\",\"answer\":\"iyang mga kauban ug mga rescuers.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Bugtong ang iya na lang ‘protected post belt’ ang nagpugong sa lineman nga dili mahulog gikan sa poste human kini nakuryentihan patay.\",\"question\":\"Unsa ang nahitabo sa lineman human siya nakuryentihan?\",\"answer\":\"nagbitay sa electric post.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Kalit ra man siyang mikirig nakasaghid og live wire.\",\"question\":\"Unsa ang kalit nga nahitabo sa biktima nga nakalitan ang mga kauban niya?\",\"answer\":\"mikirig.\"},{\"title\":\"Lineman ‘mikirig’ patay\",\"context\":\"Gitabang si Abellano sa iyang mga kauban ug mga rescuers ug daling gidala sa Cardinal Rosales Hospital.\",\"question\":\"Unsa ang gibuhat sa mga kauban sa biktima human siya nakuryentihan?\",\"answer\":\"gidala sa Cardinal Rosales Hospital.\"}]}",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 1499,
+                    "completion_tokens": 1591,
+                    "total_tokens": 3090,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0,
+                        "audio_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0,
+                        "audio_tokens": 0,
+                        "accepted_prediction_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_0ba0d124f1"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_67399850cf64819088eaff811197df73",
+        "custom_id": "article-13",
+        "response": {
+            "status_code": 200,
+            "request_id": "137c03f025f9c175bfb642de68ec1cdf",
+            "body": {
+                "id": "chatcmpl-AUTmdsDyy8CoKxKHknbrIo1Wu3llT",
+                "object": "chat.completion",
+                "created": 1731827691,
+                "model": "gpt-4o-mini-2024-07-18",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"data\":[{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Magkuyog pag-usab sila si Cebu Governor Edlen Abalayan ug Board Member Davinder Abello alang sa pagka gobernador ug bise gobernador ubos sa One Cebu party alang sa umaabot nga piniliay sa Mayo 2025.\",\"question\":\"Kinsa ang magtandem alang sa pagka gobernador ug bise gobernador sa umaabot nga piniliay sa Mayo 2025?\",\"answer\":\"Cebu Governor Edlen Abalayan ug Board Member Davinder Abello.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Kini human pormal nga miduso sa kandidatura si incumbent Cebu Governor Edlen Abalayan sa iyang Certificate of Candidacy (COC) sa buhatan sa Commission on Election (Comelec) sa Oktubre 8, 2024.\",\"question\":\"Kanus-a mipasidong ang kandidatura ni Cebu Governor Edlen Abalayan sa Comelec?\",\"answer\":\"Oktubre 8, 2024.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Si Abalayan miduso sa iyang kandidatura sa alas 10:00 sa buntag kauban ang iyang mga anak ug sakop sa pamilya.\",\"question\":\"Sa unsang orasa miduso si Abalayan sa iyang kandidatura?\",\"answer\":\"alas 10:00 sa buntag.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Wala siyay kauban nga laing politiko gawas lang sa supporters niini ubos sa samang partido.\",\"question\":\"Kinsa ang mga kauban ni Abalayan sa pagmiduso sa iyang kandidatura?\",\"answer\":\"mga anak ug sakop sa pamilya, ug supporters.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Una na nga mipadayag si Abalayan nga ugaling pilion siya pag-usab sa mga Sugboanon isip gobernador, lakip sa mga hatagan niya og pagtagad ang hingpit nga pagbalhin sa seat of government sa lungsod sa Balamban.\",\"question\":\"Unsa ang ipadayag ni Abalayan sa mga Sugboanon bahin sa iyang plano?\",\"answer\":\"pili-on siya pag-usab isip gobernador.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Si Abalayan nga unang nag-inusara’ng miduso sa iyang kandidatura, mipahibaw nga sa hapon gikatakda nga moduso sa kandidatura pagka bise gobernador ang iyang tandem.\",\"question\":\"Unsa ang gibuhat ni Abalayan human siya miduso sa iyang kandidatura?\",\"answer\":\"gikatakda nga moduso sa kandidatura pagka bise gobernador ang iyang tandem.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Apan sa alas 4:31 sa hapon 29 minutos sa wala a mosirado ang Comelec, niabot sa buhatan si incumbent sixth district board member Davinder Jorge Abello kauban si Abalayan aron pormal nga moduso sa iyang kandidatura pagka bise gobernador.\",\"question\":\"Kinsa ang misunod sa pagmiduso sa ilang kandidatura pagkabise gobernador?\",\"answer\":\"Davinder Jorge Abello.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Dili kini maoy unang higayon nga nagkuyog ang duha alang sa gubernatorial race.\",\"question\":\"Unsa ka daghan ang higayon nga nagkuyog sila Abalayan ug Abello alang sa gubernatorial race?\",\"answer\":\"Dili kini maoy unang higayon.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Si Abello unang nagpapili sa pagka bise gobernador sa 2010 apan napildi kini ni Vice Governor Alfuro Abellon.\",\"question\":\"Kanus-a mipili si Abello sa pagka bise gobernador?\",\"answer\":\"sa 2010.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Asoy ni Abello, boluntaryo niyang gipresentar ang iyang kaugalingon nga modagan kauban si Abalayan human niya mahibaw-an pinaagi sa mga taho sa mga tigbalita nga wala kini runningmate.\",\"question\":\"Unsa ang rason ni Abello nganong siya mopili nga modagan kauban si Abalayan?\",\"answer\":\"wala kini runningmate.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"“I felt that governor needs to have a vice gubernatorial candidate which has supported her program all throughout,” matod ni Abello sa Oktubre 8, 2024.\",\"question\":\"Unsa ang giingon ni Abello bahin sa panginahanglan sa usa ka bise gobernador?\",\"answer\":\"governor needs to have a vice gubernatorial candidate.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Subay sa listahan sa Comelec, duha ka mga indibidwal ang miduso sa ilang COC alang sa pagka bise gobernador.\",\"question\":\"Pila ka mga indibidwal ang miduso sa ilang COC alang sa pagka bise gobernador?\",\"answer\":\"duha ka mga indibidwal.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Gawas ni Abello, miduso usab sa iyang kandidatura si kanhi Interior and Local Government Undersecretary Sepe Abilon.\",\"question\":\"Kinsa ang laing tawo nga miduso sa kandidatura alang sa pagka bise gobernador?\",\"answer\":\"kanhi Interior and Local Government Undersecretary Sepe Abilon.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Si Incumbent Vice Governor Abina Tomas III nga lakip sa gisuwayan paghangyo ni Abalayan nga mahimong tandem niini hugot ang desisyon nga magpapili pagka kongresista sa segundo distrito.\",\"question\":\"Unsa ang desisyon ni Incumbent Vice Governor Abina Tomas III?\",\"answer\":\"magpapili pagka kongresista sa segundo distrito.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Ang igsuon ni Gov. Miyang nga si incumbent Congressman Pablo John “PJ” Abalayan nga labing unang miduso sa iyang kandidatura isip reelectionist mibakwhi sa iyang COC ug nihulip kaniya ang iyang asawa nga si Maymay May Abing-Abalayan.\",\"question\":\"Kinsa ang nihulip kang Congressman Pablo John “PJ” Abalayan sa pagmiduso sa kandidatura?\",\"answer\":\"ang iyang asawa nga si Maymay May Abing-Abalayan.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Lakip sa rason sa kongresista ang iyang pila ka dekada na nga tinguha nga pagpahigayon og dugang pagtuon sa balaod ug public administration sa gawas sa nasod.\",\"question\":\"Unsa ang rason sa kongresista nga magpadayon sa iyang pagtuon?\",\"answer\":\"pila ka dekada na nga tinguha nga pagpahigayon og dugang pagtuon.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Ingon man ang kagustuhan niining mosuwat og libro alang sa political history sa Sugbo.\",\"question\":\"Unsa ang kagustuhan sa kongresista ilabi na sa nasudnon nga konteksto?\",\"answer\":\"mosuwat og libro alang sa political history sa Sugbo.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Ang asawa ni Abalayan gradwado sa kursong Mass Communications sa University of the Philippines Cebu ug mikuha usab sa Masters Degree in Public Management sa samang unibersidad.\",\"question\":\"Unsa ang kurso nga gi-graduate sa asawa ni Abalayan?\",\"answer\":\"Mass Communications.\"},{\"title\":\"Miyang, Davinder mag-tandem\",\"context\":\"Kompiyansa si Abalayan nga mahatagan sa iyang asawa og bag-ong panan-aw ug mga maayong programa ang tersero distrito.\",\"question\":\"Unsa ang gibati ni Abalayan bahin sa kontribusyon sa iyang asawa sa tersero distrito?\",\"answer\":\"mahatagan og bag-ong panan-aw ug mga maayong programa.\"}]}",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 2008,
+                    "completion_tokens": 1756,
+                    "total_tokens": 3764,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0,
+                        "audio_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0,
+                        "audio_tokens": 0,
+                        "accepted_prediction_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_0ba0d124f1"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_67399850d7448190977f40b2cbab6e42",
+        "custom_id": "article-14",
+        "response": {
+            "status_code": 200,
+            "request_id": "5e3317d795638b6a937b91f8a35a993f",
+            "body": {
+                "id": "chatcmpl-AUTmbnMZCQwCCyKnA3zHRqyoscsLp",
+                "object": "chat.completion",
+                "created": 1731827689,
+                "model": "gpt-4o-mini-2024-07-18",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"data\":[{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Daghan ang nasurprisa human nga si incumbent Lapu-Lapu City Mayor Joelito “Ablan” Abalos ug Lone District Congresswoman Ma. Cynthia “Gloria” King-Abalos nag-ilis ug posisyon alang sa 2025 National ug Local Elections.\",\"question\":\"Kinsa ang nag-ilis ug posisyon alang sa 2025 National ug Local Elections?\",\"answer\":\"incumbent Lapu-Lapu City Mayor Joelito “Ablan” Abalos ug Lone District Congresswoman Ma. Cynthia “Gloria” King-Abalos.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Atol sa katapusang adlaw sa pag-file sa certificates of candidacy (COC), Martes, Oktubre 8, 2024, si Mayor Abalos magpapili pagka kongresista.\",\"question\":\"Unsang petsa gipahigayon ang katapusang adlaw sa pag-file sa certificates of candidacy?\",\"answer\":\"Martes, Oktubre 8, 2024.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Si Mayor Abalos magpapili pagka kongresista ug iyang makaatbang si Dionson Abiog samtang ang iyang kapikas modagan pagka mayor batok ni kanhi city mayor Abion Abison.\",\"question\":\"Kinsa ang makaatbang ni Mayor Abalos sa pagka kongresista?\",\"answer\":\"Dionson Abiog.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Gidugang ni Abalos nga si Gloria, angayan nga tagaan og higayon nga mahimong “inahan” sa Lapu-Lapu City.\",\"question\":\"Unsa nga tawag ang gihimo ni Abalos alang ni Gloria sa Lapu-Lapu City?\",\"answer\":\"“inahan” sa Lapu-Lapu City.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Gusto si Mayor Ablan musuroy sa matag suok sa matag lugar unya mutan-aw sa problema.\",\"question\":\"Unsa ang gusto buhaton ni Mayor Ablan sa mga lugar sa Lapu-Lapu City?\",\"answer\":\"musuroy sa matag suok sa matag lugar.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Samantala ang City Vice Mayor nga si Ablen Ablog modagan pag-usab alang sa re-election nga makaatbang si Cedie Abobo sa PDP Laban.\",\"question\":\"Kinsa ang magadala sa re-election nga makaatbang ni Cedie Abobo?\",\"answer\":\"City Vice Mayor nga si Ablen Ablog.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Ang mga kandidato sa Team KAABAG nga modagan pagka konsehal naglakip sa 12 ka mga kandidato: Maria Aboc, Mather Abon, Abrahan Condring Jr.\",\"question\":\"Pila ka mga kandidato ang apil sa Team KAABAG nga modagan pagka konsehal?\",\"answer\":\"12 ka mga kandidato.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Ang mga kandidato sa Team KAABAG nga modagan pagka konsehal naglakip sa 12 ka mga kandidato: Maria Aboc, Mather Abon, Abrahan Condring Jr. , Romo Abrasaldo.\",\"question\":\"Kinsa ang usa sa mga kandidato nga naglakip sa Team KAABAG sa pagka konsehal?\",\"answer\":\"Maria Aboc.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Gidugang ni Abalos nga si Gloria, angayan nga tagaan og higayon nga mahimong “inahan” sa Lapu-Lapu City.\",\"question\":\"Unsa ang gusto ni Abalos nga mahimong papel ni Gloria sa Lapu-Lapu City?\",\"answer\":\"mahimong “inahan”.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Si Mayor Abalos mitubag sa mga tigbalita sa usa ka press conference human sa pag-file sa COC.\",\"question\":\"Asa mitubag si Mayor Abalos sa mga tigbalita?\",\"answer\":\"usa ka press conference.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Gidugang ni Abalos nga si Gloria, angayan nga tagaan og higayon nga mahimong “inahan” sa Lapu-Lapu City.\",\"question\":\"Unsa ang gidugang ni Abalos bahin kang Gloria nga nakapunting sa iyang pagkatao?\",\"answer\":\"angayan nga tagaan og higayon.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Atol sa katapusang adlaw sa pag-file sa certificates of candidacy (COC), Martes, Oktubre 8, 2024, si Mayor Abalos magpapili pagka kongresista ug iyang makaatbang si Dionson Abiog.\",\"question\":\"Unsa ang papel nga gustong duaw ni Mayor Abalos sa sunod nga eleksyon?\",\"answer\":\"magpapili pagka kongresista.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Ang mga kandidato sa Team KAABAG nga modagan pagka konsehal naglakip sa 12 ka mga kandidato: Maria Aboc, Mather Abon, Abrahan Condring Jr. , Romo Abrasaldo, Tantan Abratique, Lara Abrenica, Cristitulo Abril.\",\"question\":\"Kinsa ang isa sa mga kandidato nga gimenos nga giapil sa Team KAABAG?\",\"answer\":\"Mather Abon.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Si Mayor Abalos mitubag sa mga tigbalita sa usa ka press conference.\",\"question\":\"Kinsa ang naghatag og tubag sa mga tigbalita human sa pag-file sa COC?\",\"answer\":\"Si Mayor Abalos.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Ang mga kandidato sa Team KAABAG nga modagan pagka konsehal naglakip sa 12 ka mga kandidato: Maria Aboc, Mather Abon, Abrahan Condring Jr. , Romo Abrasaldo.\",\"question\":\"Pila ka mga kandidato sa Team KAABAG ang gi lista sa artikulo?\",\"answer\":\"12.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Ang Cebu City Vice Mayor nga si Ablen Ablog modagan pag-usab alang sa re-election.\",\"question\":\"Kinsa ang magpapili sa re-election alang sa Cebu City Vice Mayor?\",\"answer\":\"si Ablen Ablog.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Daghan ang nasurprisa human nga si incumbent Lapu-Lapu City Mayor Joelito “Ablan” Abalos ug Lone District Congresswoman Ma. Cynthia “Gloria” King-Abalos nag-ilis ug posisyon.\",\"question\":\"Unsa ang reaksyon sa mga tawo sa pag-ilis sa posisyon ni Mayor Ablan ug Congresswoman Gloria?\",\"answer\":\"nasurprisa.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Sa pangutana og unsay ilang rason sa pagbaylo sa maong posisyon, si Abalos mitubag sa mga tigbalita.\",\"question\":\"Unsa ang giingon ni Abalos nga rason sa pagbaylo sa posisyon?\",\"answer\":\"mas daghang oras nga motutok sa mga naglungtad nga problema sa siyudad.\"},{\"title\":\"Ablan pagka-kongresista, Gloria modagan pagka mayor\",\"context\":\"Gidugang ni Abalos nga si Gloria, angayan nga tagaan og higayon nga mahimong “inahan” sa Lapu-Lapu City.\",\"question\":\"Nganong giingon ni Abalos nga angayan si Gloria sa maong posisyon?\",\"answer\":\"tagaan og higayon nga mahimong “inahan”.\"}]}",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 1629,
+                    "completion_tokens": 1760,
+                    "total_tokens": 3389,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0,
+                        "audio_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0,
+                        "audio_tokens": 0,
+                        "accepted_prediction_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_0ba0d124f1"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_67399850dfc88190abf8ac0bcf3db44d",
+        "custom_id": "article-15",
+        "response": {
+            "status_code": 200,
+            "request_id": "542896621deae137999b6063f8b5166d",
+            "body": {
+                "id": "chatcmpl-AUTmdM9OequtyWhMrSAEPWQCdcR2b",
+                "object": "chat.completion",
+                "created": 1731827691,
+                "model": "gpt-4o-mini-2024-07-18",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"data\":[{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Nihimo na og imbestigasyon ang Lapu-Lapu City Police Office (LCPO) sa pasangil nga nangulata ang mga police personnel sa Station 4 sa usa ka criminology student\",\"question\":\"Asa giimbestigaran ang mga police personnel bahin sa pasangil nga nangulata?\",\"answer\":\"Station 4\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"human matod gitumbok nga nakahimo'g krimen.\",\"question\":\"Unsa ang giingong nahimo sa criminology student?\",\"answer\":\"nakahimo'g krimen.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Sa post sa iyang social media account ni Mayor Joelito 'Ablan' Abalos nga iyang nasuta nga walay kamatuoran nga nakahimog krimen ang maong biktima nga si alyas Johnrey.\",\"question\":\"Kinsa ang nag-ingon nga walay kamatuoran nga naay krimen ang biktima?\",\"answer\":\"Mayor Joelito 'Ablan' Abalos.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Bun-og sa kalawasan ang nahiagoman ni Johnrey nga maoy hinungdan nga ang mayor na ang nangunay sa pagsusi niini ug nibisita sa tambalanan.\",\"question\":\"Unsa ang nahimong kondisyon ni Johnrey nga nagdani sa mayor sa pagsusi?\",\"answer\":\"Bun-og sa kalawasan.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Nipasalig ang mayor nga mahatagan og hustisya ang nahitabo kang alyas Johnrey ug mapanubag ang nagdagmal sa biktima.\",\"question\":\"Unsa ang gipangayo sa mayor para kang Johnrey?\",\"answer\":\"mahatagan og hustisya.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Alang kang Police Lieutenant Colonel Lennon Marjo Abacay, spokesperson ni Police Brigadier General Jorge Abad, hepe sa Police Regional Office (PRO) 7, nibutyag nga nagpaabot nalang sila sa resulta sa gihimo sa kapulisan sa Dakbayan sa Lapu-Lapu.\",\"question\":\"Kinsa ang spokesperson sa Police Brigadier General Jorge Abad?\",\"answer\":\"Police Lieutenant Colonel Lennon Marjo Abacay.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Gipasalig ni Abacay nga ang PRO 7 pinaagi sa hepe niini nga dili nila duphan ang sayop nga nahimo sa ilang mga personnel kung mamatud-an nga sad-an sa ilang nahimo.\",\"question\":\"Unsa ang gipasalig ni Abacay bahin sa sayop nga nahimo sa ilang personnel?\",\"answer\":\"dili nila duphan ang sayop.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Kung mapamatud-an kining mga polisa will be charge administratively and probably criminally if evidence warrant but of course that is after a thorough investigation, tagaan una sila og opportunity pud nga mopadayag pud sa ilang story\",\"question\":\"Unsa ang mahitabo sa mga polisa kung mapamatud-an silang sad-an?\",\"answer\":\"will be charge administratively and probably criminally.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Giklaro hinuon ni Abacay nga kung makita sa imbestigasyon sa hepe sa kapulisan sa Dakbayan sa Lapu-Lapu nga sad-an ug kinahanglan nga parelibohan sa katungdanan, ila kining buhaton.\",\"question\":\"Unsa ang buhaton kung makita sa imbestigasyon nga sad-an ang mga polisa?\",\"answer\":\"ila kining buhaton.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Nihimo na og imbestigasyon ang Lapu-Lapu City Police Office (LCPO) sa pasangil nga nangulata ang mga police personnel sa Station 4\",\"question\":\"Kinsa ang nag-imbestiga sa pasangil nga nangulata?\",\"answer\":\"Lapu-Lapu City Police Office (LCPO).\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Sa post sa iyang social media account ni Mayor Joelito 'Ablan' Abalos nga iyang nasuta nga walay kamatuoran\",\"question\":\"Unsang plataporma gigamit ni Mayor Abalos sa pag-post sa impormasyon?\",\"answer\":\"social media account.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\" Nipasalig ang mayor nga mahatagan og hustisya ang nahitabo kang alyas Johnrey\",\"question\":\"Kinsa ang nagpasalig nga mahatagan og hustisya kang Johnrey?\",\"answer\":\"ang mayor.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Nibisita ang mayor sa tambalanan diin kini gi-admit sa kabanay.\",\"question\":\"Asa nibisita ang mayor alang ni Johnrey?\",\"answer\":\"tambalanan.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Nihimo na og imbestigasyon ang Lapu-Lapu City Police Office (LCPO) sa pasangil nga nangulata ang mga police personnel\",\"question\":\"Unsa ang gihimo sa Lapu-Lapu City Police Office (LCPO)?\",\"answer\":\"imbestigasyon.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Sa post sa iyang social media account ni Mayor Joelito 'Ablan' Abalos nga iyang nasuta nga walay kamatuoran nga nakahimog krimen ang maong biktima nga si alyas Johnrey.\",\"question\":\"Unsa ang nakit-an ni Mayor Abalos bahin kang Johnrey?\",\"answer\":\"walay kamatuoran nga nakahimog krimen.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Alang kang Police Lieutenant Colonel Lennon Marjo Abacay, spokesperson ni Police Brigadier General Jorge Abad, hepe sa Police Regional Office (PRO) 7\",\"question\":\"Kinsa ang hepe sa Police Regional Office (PRO) 7?\",\"answer\":\"Police Brigadier General Jorge Abad.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Giklaro hinuon ni Abacay nga kung makita sa imbestigasyon sa hepe sa kapulisan sa Dakbayan sa Lapu-Lapu nga sad-an ug kinahanglan nga parelibohan sa katungdanan, ila kining buhaton.\",\"question\":\"Unsay buhaton kung ang hepe sa kapulisan makakita og mga sad-an?\",\"answer\":\"ila kining buhaton.\"},{\"title\":\"Polis nga ‘nangulata’ giimbestigar sa LCPO\",\"context\":\"Bun-og sa kalawasan ang nahiagoman ni Johnrey\",\"question\":\"Unsa ang operasyon nga nagresulta sa kondisyon ni Johnrey?\",\"answer\":\"bun-og sa kalawasan.\"}]}",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 1612,
+                    "completion_tokens": 1617,
+                    "total_tokens": 3229,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0,
+                        "audio_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0,
+                        "audio_tokens": 0,
+                        "accepted_prediction_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_0ba0d124f1"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_67399850e8388190bbb4061722970848",
+        "custom_id": "article-16",
+        "response": {
+            "status_code": 200,
+            "request_id": "b6d156a9eee09fefdb1292a35abd0169",
+            "body": {
+                "id": "chatcmpl-AUTmczpbd1FDvMoZqfvfkD2FTwLLU",
+                "object": "chat.completion",
+                "created": 1731827690,
+                "model": "gpt-4o-mini-2024-07-18",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"data\":[{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Nimando ang Office of the Ombudsman sa pagpalagpot kang Atty. Aurelio Acdal Acebedo sa Register of Deeds for Mandaue City human siya mapamatud-ang sad-an sa paglapas sa Republic Act (RA) 6713.\",\"question\":\"Kinsa ang gi-order nga ipalagpot sa Office of the Ombudsman?\",\"answer\":\"Atty. Aurelio Acdal Acebedo.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Ang desisyon nga gipirmahan niadtong Septiyembre 10, 2024, ni Ombudsman Quipot R. Acepcion, naggumikan sa administratibong reklamo nga gisang-at ni Procopio L. Dy, Jr. sa Disyembre 1, 2022.\",\"question\":\"Kinsa ang nagpirma sa desisyon nga nagpalagpot kang Acebedo?\",\"answer\":\"Ombudsman Quipot R. Acepcion.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Ang reklamo nipasangil kang Acebedo sa pagpangayo ug pagdawat og kuwarta bugti sa pagpadali sa pagproseso sa Torrens Certificates of Title sa reklamante.\",\"question\":\"Unsa ang gipangayo ni Acebedo nga nakasulod sa reklamo?\",\"answer\":\"kuwarta bugti sa pagpadali sa pagproseso sa Torrens Certificates of Title.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Si Acebedo nasakpan nga nidawat og marked money nga P150,000 sa entrapment operation nga gihimo sa National Bureau of Investigation (NBI)-Central Visayas (NBI-7) sa Nobiyembre 25, 2023.\",\"question\":\"Pila ka kwarta ang nadawat ni Acebedo gikan sa marked money?\",\"answer\":\"P150,000.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Si Acebedo napamatud-an nga sad-an sa paglapas sa Section 7(d) sa RA 6713, nga nagdili sa mga opisyal sa publiko sa pagpangayo o pagdawat og mga regalo, mga benepisyo sa kwarta, o bisan unsang bililhong butang nga may kalabutan sa ilang opisyal nga katungdanan.\",\"question\":\"Unsa nga section sa RA 6713 ang nalapas ni Acebedo?\",\"answer\":\"Section 7(d).\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Ang silot nga gipakanaog sa Ombudsman naglakip sa dismissal gikan sa serbisyo uban sa accessory penalties sa forfeiture sa tanang retirement benefits, accrued leave credits, ug uban pang mga receivable tungod sa iyang opisina.\",\"question\":\"Unsa ang silot nga gipakanaog sa Ombudsman kang Acebedo?\",\"answer\":\"dismissal gikan sa serbisyo.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Kung dili na mapatuman ang silot sa dismissal tungod sa pagbiya na sa serbisyo, ang silot ibaylo ngadto sa multa.\",\"question\":\"Unsa ang mahitabo kon dili mapatuman ang silot nga dismissal?\",\"answer\":\"ang silot ibaylo ngadto sa multa.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Ang multa katumbas sa iyang tinuig nga suweldo sulod sa usa ka tuig nga ibawas sa bisan unsang retirement benefits o receivables ug ibayad ngadto sa Office of the Ombudsman.\",\"question\":\"Unsa ang katumbas sa multa nga ipapataw kang Acebedo?\",\"answer\":\"tinuig nga suweldo sulod sa usa ka tuig.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Ang desisyon nga gipirmahan niadtong Septiyembre 10, 2024, ni Ombudsman Quipot R. Acepcion, naggumikan sa administratibong reklamo nga gisang-at ni Procopio L. Dy, Jr. sa Disyembre 1, 2022.\",\"question\":\"Kanus-a gipirmahan ang desisyon sa Ombudsman?\",\"answer\":\"Septiyembre 10, 2024.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Ang reklamo nipasangil kang Acebedo sa pagpangayo ug pagdawat og kuwarta bugti sa pagpadali sa pagproseso sa Torrens Certificates of Title sa reklamante.\",\"question\":\"Kinsa ang nagdala sa reklamo batok kang Acebedo?\",\"answer\":\"Procopio L. Dy, Jr.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Si Acebedo napamatud-an nga sad-an sa paglapas sa Section 7(d) sa RA 6713, nga nagdili sa mga opisyal sa publiko sa pagpangayo o pagdawat og mga regalo, mga benepisyo sa kwarta, o bisan unsang bililhong butang nga may kalabutan sa ilang opisyal nga katungdanan.\",\"question\":\"Unsa ang mga butang nga gina-dili sa Section 7(d)?\",\"answer\":\"mga regalo, mga benepisyo sa kwarta, o bisan unsang bililhong butang.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Nimando ang Office of the Ombudsman sa pagpalagpot kang Atty. Aurelio Acdal Acebedo sa Register of Deeds for Mandaue City.\",\"question\":\"Unsang opisina ang nimando sa pagpalagpot kang Acebedo?\",\"answer\":\"Office of the Ombudsman.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Ang silot nga gipakanaog sa Ombudsman naglakip sa dismissal gikan sa serbisyo uban sa accessory penalties sa forfeiture sa tanang retirement benefits, accrued leave credits, ug uban pang mga receivable tungod sa iyang opisina.\",\"question\":\"Unsa ang accessory penalties nga apil sa silot ni Acebedo?\",\"answer\":\"forfeiture sa tanang retirement benefits, accrued leave credits, ug uban pang mga receivable.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Si Acebedo nasakpan nga nidawat og marked money nga P150,000 sa entrapment operation nga gihimo sa National Bureau of Investigation (NBI)-Central Visayas (NBI-7) sa Nobiyembre 25, 2023.\",\"question\":\"Asa nahitabo ang entrapment operation batok kang Acebedo?\",\"answer\":\"Central Visayas (NBI-7).\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Ang reklamo nipasangil kang Acebedo sa pagpangayo ug pagdawat og kuwarta bugti sa pagpadali sa pagproseso sa Torrens Certificates of Title sa reklamante.\",\"question\":\"Unsa ang giisip nga rason sa reklamo batok kang Acebedo?\",\"answer\":\"pagpadali sa pagproseso sa Torrens Certificates of Title.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Si Acebedo napamatud-an nga sad-an sa paglapas sa Section 7(d) sa RA 6713, nga nagdili sa mga opisyal sa publiko sa pagpangayo o pagdawat og mga regalo, mga benepisyo sa kwarta, o bisan unsang bililhong butang nga may kalabutan sa ilang opisyal nga katungdanan.\",\"question\":\"Kinsay gitugot nga mangayo o modawat og mga regalo sa Section 7(d)?\",\"answer\":\"walay opisyal sa publiko.\"},{\"title\":\"Opisyal sa Register of Deeds Mandaue gitaktak sa Ombud\",\"context\":\"Kung dili na mapatuman ang silot sa dismissal tungod sa pagbiya na sa serbisyo, ang silot ibaylo ngadto sa multa.\",\"question\":\"Unsay ipuli kon dili na mapatuman ang silot nga dismissal?\",\"answer\":\"multa.\"}]}",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 1638,
+                    "completion_tokens": 1810,
+                    "total_tokens": 3448,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0,
+                        "audio_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0,
+                        "audio_tokens": 0,
+                        "accepted_prediction_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_0ba0d124f1"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_67399850f0f48190b9522b75f7f9a119",
+        "custom_id": "article-17",
+        "response": {
+            "status_code": 200,
+            "request_id": "da0d6a360d0bf0f2a62f19a506cdbaa8",
+            "body": {
+                "id": "chatcmpl-AUTmewSV9ek1mJsf8oVdJlum11aXY",
+                "object": "chat.completion",
+                "created": 1731827692,
+                "model": "gpt-4o-mini-2024-07-18",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"data\":[{\"title\":\"Ga-billIards gipatay\",\"context\":\"Patay ang usa ka batan-ong lalaki nga nagduwa og billiards human pusila, alas 10:30 sa gabii sa Sabado, Oktubre 5, 2024, sa Sitio Lawis, Brgy. Pasil, siyudad sa Sugbo.\",\"question\":\"Unsang oras natabo ang pagpusil sa biktima nga nagduwa og billiards?\",\"answer\":\"alas 10:30 sa gabii\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Ang biktima giila nga si Cristitulo Dionson Acero Acierto, 21, molupyo sa naasoy nga dapit, nakaangkon og samad pinusilan sa iyang ulo nga maoy hinungdan sa iyang hinanali nga kamatayon.\",\"question\":\"Kinsay biktima sa pagpusil?\",\"answer\":\"Cristitulo Dionson Acero Acierto\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Ang biktima giila nga si Cristitulo Dionson Acero Acierto, 21, molupyo sa naasoy nga dapit, nakaangkon og samad pinusilan sa iyang ulo nga maoy hinungdan sa iyang hinanali nga kamatayon.\",\"question\":\"Pila ka tuig ang edad sa biktima?\",\"answer\":\"21\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Usa ka lalaki nga nagsul-ob og itom nga jacket ug itom nga short pants ang niduol sa biktima ug kalit kini nibunot og pistola sa iyang kilid ug dayong pusil sa biktima sa ulo sa makaduha ka higayon.\",\"question\":\"Unsang kolor sa jacket ang gisul-ob sa suspek sa pagpusil?\",\"answer\":\"itom\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Dali nga misibat ang suspek sa wala matino nga direksyon samtang ang mga tawo nga naa sa lugar naalibwag sa pagpanagan tungod sa kahadlok.\",\"question\":\"Unsa ang gibuhat sa suspek human sa pagpusil?\",\"answer\":\"misibat sa wala matino nga direksyon\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Ang mga molupyo sa dapit nanawag sa Cebu City Response Team apan sa ilang pag-abot, wala nay timailhan nga buhi pa ang biktima.\",\"question\":\"Kinsa ang nanawag sa Cebu City Response Team?\",\"answer\":\"mga molupyo sa dapit\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Ang hepe sa Sawang Calero Police Station Police nga si P/Capt. Kenn Aclan nibutyag nga migawas sa ilang imbestigasyon nga usa ka drug personality ang biktima.\",\"question\":\"Kinsa ang hepe sa Sawang Calero Police Station nga nibutyag bahin sa biktima?\",\"answer\":\"P/Capt. Kenn Aclan\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Sigon sa ilang nakuha nga kasayuran nga nakautang og dakong kuwarta si Acierto ug wala na makabayad nga usa sa ilang gitan-aw nga hinungdan o motibo sa krimen.\",\"question\":\"Unsa ang nakit-an nga katuyoan sa pagpatay ngadto sa biktima?\",\"answer\":\"nakautang og dakong kuwarta\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"“Yes, isa yan sa tinututukan namin na leads based sa text messages (sa cellphone) na malaki ang kulang niya sa amo niya sa drugs,” matod ni Aclan sa Superbalita Cebu.\",\"question\":\"Unsa ang giingon ni Aclan bahin sa mga mensahe sa cellphone sa biktima?\",\"answer\":\"malaki ang kulang niya sa amo niya sa drugs\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Ang biktima nagduwa og billiards uban sa iyang mga ig-agaw.\",\"question\":\"Kinsa ang uban sa biktima sa pagduwa og billiards?\",\"answer\":\"iyang mga ig-agaw\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Sa imbestigastyon sa Sawang Calero Police Station sa Cebu City Police Office (CCPO), ang biktima nagduwa og billiards uban sa iyang mga ig-agaw.\",\"question\":\"Asa ang nahitabo ang imbestigasyon?\",\"answer\":\"Sawang Calero Police Station\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Daghan ang nanawag sa Cebu City Response Team apan sa ilang pag-abot, wala nay timailhan nga buhi pa ang biktima.\",\"question\":\"Unsa ang nahitabo sa biktima sa pag-abot sa Cebu City Response Team?\",\"answer\":\"wala nay timailhan nga buhi pa ang biktima\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Ang mga tawo nga naa sa lugar naalibwag sa pagpanagan tungod sa kahadlok.\",\"question\":\"Nganong naalibwag ang mga tawo sa lugar?\",\"answer\":\"tungod sa kahadlok\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Nagpadayon pa ang Sawang Calero Police sa imbestigasyon ug duna na silay gitumbok nga person of interest (POI) nga maoy ilang subject sa ilang manhunt.\",\"question\":\"Unsa ang ginaimbestigahan sa Sawang Calero Police?\",\"answer\":\"gipaabot nga person of interest (POI)\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Ang biktima nakaangkon og samad pinusilan sa iyang ulo nga maoy hinungdan sa iyang hinanali nga kamatayon.\",\"question\":\"Unsa ang hinungdan sa kamatayon sa biktima?\",\"answer\":\"samad pinusilan sa iyang ulo\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Usa ka lalaki nga nagsul-ob og itom nga jacket ug itom nga short pants ang niduol sa biktima ug kalit kini nibunot og pistola nga dayong pusil.\",\"question\":\"Unsa ang gikuha sa suspek nga gihapon nagduol sa biktima?\",\"answer\":\"pistola\"},{\"title\":\"Ga-billIards gipatay\",\"context\":\"Daghang biyahe sa barko nga gikan sa Cebu ang gipasuspenso tungod sa daotang panahon ug dagkong bawod.\",\"question\":\"Asa nagsugod ang mga biyahe nga gipasuspenso?\",\"answer\":\"Cebu\"}]}",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 1663,
+                    "completion_tokens": 1422,
+                    "total_tokens": 3085,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0,
+                        "audio_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0,
+                        "audio_tokens": 0,
+                        "accepted_prediction_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_0ba0d124f1"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_67399850f8ec81909559e4ea2a6372b0",
+        "custom_id": "article-18",
+        "response": {
+            "status_code": 200,
+            "request_id": "d5498202ef8ae89063f7a139c64df7f6",
+            "body": {
+                "id": "chatcmpl-AUTmdEAnygNN3FrEXTdUfmebgzCKL",
+                "object": "chat.completion",
+                "created": 1731827691,
+                "model": "gpt-4o-mini-2024-07-18",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"data\":[{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Kapin sa usa ka libo ang nadakpan sa kapulisan sa Central Visayas sulod sa usa ka adlaw nga operasyon batok kriminalidad ug pagpatuman sa mga lokal nga ordinansa sa matag lungsod ug siyudad gikan sa Oktubre 5-6, 2024.\",\"question\":\"Pila ka tawo ang nadakpan sa Central Visayas sa usa ka adlaw nga operasyon?\",\"answer\":\"Kapin sa usa ka libo.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Sa ilang kampanya batok illegal nga drugas, nakasakmit ang Police Regional Office (PRO) 7 og 130. 20 gramos nga gituohang shabu nga dunay standard drug price nga P885,360 atol sa 20 ka anti-illegal drug operations ug pagkasikop sa 27 ka drug personalities.\",\"question\":\"Pila ka gramos sa shabu ang nakasakmit sa Police Regional Office (PRO) 7?\",\"answer\":\"130.20 gramos.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Wala mohunong ang kapulisan sa ilang kampanya batok loose firearms subay sa kamandoan sa ilang ulohang buhatan tungod sa nagkaduol na ang midterm elections sa sunod tuig diin tulo ka armas nga walay lisensya, ang ilang naimbargo ug usa ka tawo ang nadakpan og napasakaan na ang kaso sa korte.\",\"question\":\"Unsa ang hinungdan ngano wala mohunong ang kapulisan sa kampanya batok sa loose firearms?\",\"answer\":\"nagkaduol na ang midterm elections sa sunod tuig.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Nakalusad usab og 14 ka operations batok sa illegal gambling ang kapulisan nga misikop sa 21 ka mga sugarol, 14 kanila ang napasakaan na kaso sa korte, ug pagkasakmit sa P1,685 nga cash.\",\"question\":\"Pila ka mga sugarol ang nadakpan sa mga operasyon batok sa illegal gambling?\",\"answer\":\"21 ka mga sugarol.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Samtang, moabot sa P538,010 ang nakolekta sa kapulisan isip multa nunot sa subsob nga pagpatuman sa mga lokal nga ordinansa sa matag lungsod ug siyudad diin 1,116 ka mga tawo ang nadakpan.\",\"question\":\"Pila ang nakolekta sa kapulisan isip multa gikan sa mga lokal nga ordinansa?\",\"answer\":\"P538,010.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Nakadakop usab og siyam ka wanted persons ang kapulisan nga dunay mga pending warrant of arrest sa nagkalainlaing kaso nga giatubang, usa niiini nabutang sa listahan sa most wanted persons.\",\"question\":\"Pila ka wanted persons ang nadakop sa kapulisan?\",\"answer\":\"siyam ka wanted persons.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Kapin sa usa ka libo ang nadakpan sa kapulisan sa Central Visayas sulod sa usa ka adlaw nga operasyon batok kriminalidad ug pagpatuman sa mga lokal nga ordinansa sa matag lungsod ug siyudad gikan sa Oktubre 5-6, 2024.\",\"question\":\"Unsa nga petsa ang nahitabo ang operasyon sa kapulisan sa Central Visayas?\",\"answer\":\"Oktubre 5-6, 2024.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Sa ilang kampanya batok illegal nga drugas, nakasakmit ang Police Regional Office (PRO) 7 og 130. 20 gramos nga gituohang shabu nga dunay standard drug price nga P885,360 atol sa 20 ka anti-illegal drug operations.\",\"question\":\"Pila ka anti-illegal drug operations ang gihimo sa Police Regional Office (PRO) 7?\",\"answer\":\"20 ka anti-illegal drug operations.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Wala mohunong ang kapulisan sa ilang kampanya batok loose firearms subay sa kamandoan sa ilang ulohang buhatan tungod sa nagkaduol na ang midterm elections sa sunod tuig.\",\"question\":\"Unsang buhatan ang nagsugod sa kampanya batok sa loose firearms?\",\"answer\":\"ilang ulohang buhatan.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Nakalusad usab og 14 ka operations batok sa illegal gambling ang kapulisan nga misikop sa 21 ka mga sugarol, 14 kanila ang napasakaan na kaso sa korte.\",\"question\":\"Unsa nga kaso ang napasakaan sa 14 ka mga sugarol?\",\"answer\":\"kaso sa korte.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Ang Police Regional Office (PRO) 7 nakakasakmit og 130.20 gramos nga gituohang shabu nga dunay standard drug price nga P885,360.\",\"question\":\"Unsa ang standard drug price sa 130.20 gramos nga gituohang shabu?\",\"answer\":\"P885,360.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Samting pagkasakmit sa P1,685 nga cash gikan sa mga sugarol.\",\"question\":\"Pila ka cash ang nakasakmit gikan sa mga sugarol?\",\"answer\":\"P1,685.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Nakabalo ang kapulisan sa mga illegal nga activities sa mga lungsod ug siyudad matapos ang ilang operasyon.\",\"question\":\"Asa nagpatuman ang kapulisan sa operasyon batok kriminalidad?\",\"answer\":\"mga lungsod ug siyudad.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Nakasakmit ang Police Regional Office (PRO) 7 og 130.20 gramos nga gituohang shabu nga dunay standard drug price nga P885,360 atol sa 20 ka anti-illegal drug operations.\",\"question\":\"Unsa ang gituohan nga substance nga nakasakmit sa Police Regional Office (PRO) 7?\",\"answer\":\"shabu.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Nakadakop usab og usa ka tawo nga walay lisensya nga armas, ang ilang naimbargo.\",\"question\":\"Pila ka armas ang naimbargo sa kapulisan nga walay lisensya?\",\"answer\":\"tulo ka armas.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Samtang, moabot sa P538,010 ang nakolekta sa kapulisan isip multa.\",\"question\":\"Unsa ang pondo nga nakolekta sa kapulisan nga adunay kinalaman sa multa?\",\"answer\":\"P538,010.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Kapin sa usa ka libo ang nadakpan sa kapulisan sa Central Visayas sulod sa usa ka adlaw nga operasyon batok kriminalidad.\",\"question\":\"Kinsa ang nadakpan sa operasyon?\",\"answer\":\"ang kapulisan sa Central Visayas.\"},{\"title\":\"Kapin 1,000 ka malapason sa balaod, nasikop\",\"context\":\"Nakadakop usab og siyam ka wanted persons ang kapulisan. Usa niini nabutang sa listahan sa most wanted persons.\",\"question\":\"Unsa nga kategorya ang gisudlan sa usa ka nadakpan nga wanted person?\",\"answer\":\"most wanted persons.\"}]}",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 1572,
+                    "completion_tokens": 1777,
+                    "total_tokens": 3349,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0,
+                        "audio_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0,
+                        "audio_tokens": 0,
+                        "accepted_prediction_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_0ba0d124f1"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_6739985100fc819099b5f17bef83a08b",
+        "custom_id": "article-19",
+        "response": {
+            "status_code": 200,
+            "request_id": "f7cb9bb38b22365c2525d269506b3d96",
+            "body": {
+                "id": "chatcmpl-AUTmejhjdH17cCodSE2RlqriVSlrk",
+                "object": "chat.completion",
+                "created": 1731827692,
+                "model": "gpt-4o-mini-2024-07-18",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"data\":[{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"PAGPADUOL sa serbisyo sa mga senior citizen sa kabarangayan maoy nag-unang tumong sa bag-ong officer sa Officer of Senior Citizens Affairs (Osca) sa dakbayan sa Sugbo nga si Necio Acmad, beterano nga mamahayag ug brodkaster.\",\"question\":\"Unsa ang nag-unang tumong sa bag-ong officer sa Osca nga si Necio Acmad?\",\"answer\":\"PAGPADUOL sa serbisyo sa mga senior citizen sa kabarangayan.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Sa barangay level pa lang daan, mahatag ang benepisyo ug masulbad usab ang ilang problema, matod ni Acmad nga nahinabi sa Superbalita Cebu niadtong Dominggo, Oktubre 6, 2024.\",\"question\":\"Asa una ihatag ang benepisyo sa mga senior citizen sumala ni Acmad?\",\"answer\":\"Sa barangay level pa lang daan.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Si Necio Acmad, beterano nga mamahayag ug brodkaster, nagsugod sa iyang bag-ong tahas niadtong Oktubre 1, 2024.\",\"question\":\"Kanus-a nagsugod si Necio Acmad sa iyang bag-ong tahas isip officer sa Osca?\",\"answer\":\"niadtong Oktubre 1, 2024.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Matod ni Acmad, dunay 110 mil ka mga senior citizen nga narehistro sa Osca ug 96 niini ang nagdawat og financial assistance nga P1,000 matag buwan nga ihatag quarterly o ipuno sud sa tulo ka buwan.\",\"question\":\"Pila ka senior citizen ang narehistro sa Osca sumala ni Acmad?\",\"answer\":\"110 mil ka mga senior citizen.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Dunay 96 niini ang nagdawat og financial assistance nga P1,000 matag buwan nga ihatag quarterly o ipuno sud sa tulo ka bulan.\",\"question\":\"Pila ka mga senior citizen ang nakadawat og financial assistance?\",\"answer\":\"96.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Ang gihatagan og prayoridad sa Osca kadtong dunay record nga nakabotar sukad sa 2013 ug paubos tungod sa limitasyon sa budget.\",\"question\":\"Unsang mga senior citizen ang gihatagan og prayoridad sa Osca?\",\"answer\":\"Kadtong dunay record nga nakabotar sukad sa 2013.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"KASAULOGAN: Ang Osca kasamtangang naghimo og mga kalihokan sa pagsaulog sa 'National Citizen Month.'\",\"question\":\"Unsa ang giinsa sa Osca para sa pagsaulog sa 'National Citizen Month'?\",\"answer\":\"Mga kalihokan sa pagsaulog sa 'National Citizen Month'.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Usa ka medical mission ang gipahigayon sa Plaza Sugbo sa atubangan sa Cebu City Hall niadtong Oktubre 1, 2024.\",\"question\":\"Asa gipahigayon ang usa ka medical mission niadtong Oktubre 1, 2024?\",\"answer\":\"Plaza Sugbo sa atubangan sa Cebu City Hall.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Matod ni Acmad, dul-an sa usa ka libo nga senior citizen ang nabenepisyo sa nagkalainlaing serbiyo alang sa panglawas.\",\"question\":\"Pila ka senior citizen ang nabenepisyo sa nagkalainlaing serbisyo alang sa panglawas?\",\"answer\":\"Dul-an sa usa ka libo.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Lakip sa programa, matod ni Acmad, paghimo og lecture ug seminar bahin sa pag-atiman sa mental health ug nutrisyon nga dakong isyo samtang magkataas ang edad.\",\"question\":\"Unsa ang mga hilisgutan sa lecture ug seminar nga giandam sa programa?\",\"answer\":\"Pag-atiman sa mental health ug nutrisyon.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Ang Osca manghatag usab og libre booklet alang sa discount sa pagpamalit labina sa mga tambal.\",\"question\":\"Unsa ang ihatag sa Osca nga libre alang sa mga senior citizen?\",\"answer\":\"Libre booklet alang sa discount sa pagpamalit.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Samtang, si Acmad niingon nga ang Osca nag-abag sa mga senior citizen nga marehistro usab sa National Commission of Senior Citizen (NCSC) aron makadawat usab og ayuda gikan sa nasudnong kagamhanan.\",\"question\":\"Unsay gina-abag sa Osca sa mga senior citizen sumala ni Acmad?\",\"answer\":\"Marehistro usab sa National Commission of Senior Citizen (NCSC).\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Hinayhinay na nga gibalhin sa NCSC ang pagdumala sa DSWD sa benepesiyo sa senior citizens. Daghan na gud og giatiman ang DSWD.\",\"question\":\"Kinsa ang nagdumala sa benepisiyo sa senior citizens kaniadto nga gibalhin na sa NCSC?\",\"answer\":\"DSWD.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Matod ni Acmad, ang uban waiting. Nagpasabot nga bag-o lang narehistro nga botante sa dakbayan.\",\"question\":\"Unsa ang pasabot sa uban nga nag-waiting sumala ni Acmad?\",\"answer\":\"Bag-o lang narehistro nga botante.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Dugang ni Acmad nga opisyal nga nagsugod sa iyang bag-ong tahas niadtong Oktubre 1, 2024.\",\"question\":\"Kinsa ang cunong bugtong nagsugod sa iyang bag-ong tahas nga nahinabi?\",\"answer\":\"Acmad.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Ang Osca, ubos sa buhatan sa mayor, maoy nagtutok sa kaayohan ug pagpalambo sa katungod sa senior citizens.\",\"question\":\"Asa ubos ang Osca nga nagatutok sa kaayohan sa senior citizens?\",\"answer\":\"Ubos sa buhatan sa mayor.\"},{\"title\":\"Serbisyo sa senior citizens ipaduol sa kabarangayan\",\"context\":\"Naghimo og lecture ug seminar bahin sa pag-atiman sa mental health ug nutrisyon nga dakong isyo samtang magkataas ang edad.\",\"question\":\"Unsa ang giatiman sa paghimong lecture ug seminar sumala ni Acmad?\",\"answer\":\"Mental health ug nutrisyon.\"}]}",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 2015,
+                    "completion_tokens": 1558,
+                    "total_tokens": 3573,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0,
+                        "audio_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0,
+                        "audio_tokens": 0,
+                        "accepted_prediction_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_0ba0d124f1"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_67399851094881908b0a31ddbe491a0b",
+        "custom_id": "article-20",
+        "response": {
+            "status_code": 200,
+            "request_id": "16622981a2d0efa2f121a815c717b34b",
+            "body": {
+                "id": "chatcmpl-AUTmdTnd6IzcUbcq4bLvdw079ZC9I",
+                "object": "chat.completion",
+                "created": 1731827691,
+                "model": "gpt-4o-mini-2024-07-18",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "{\"data\":[{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Nagkadako ang pagdahili sa yuta sa Toledo Wharf Road (Manipis) sa Barangay Kampo 4, dakbayan sa Talisay hinungdan nga gisirado gihapon kini sa trapiko sukad sa unang pagdahili niadtong Martes sa kaadlawon, Oktubre 1, 2024.\",\"question\":\"Kanus-a nagsugod ang pagdahili sa yuta sa Toledo Wharf Road sa Barangay Kampo 4?\",\"answer\":\"Oktubre 1, 2024.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Si Robert 'Nancy' Abel, pangulo sa City of Talisay-Traffic Operations and Development Authority (CT-TODA) nga nahinabi sa Superbalita sa Dominggo, Oktubre 6, nagkanayon nga ang Department of Public Works and Highways (DPWH) mosusi sa dapit karong buntag, Lunes, Oktubre 7, 2024, aron pag-assess sa kahimtang.\",\"question\":\"Kinsa ang pangulo sa CT-TODA nga nahinabi bahin sa landslide?\",\"answer\":\"Robert 'Nancy' Abel.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Kini bahin sa pag-ayo sa DPWH sa maong dan nga nagkadako ang bahin sa yuta nga midahili.\",\"question\":\"Unsa ang gihimo sa DPWH nga conectado sa pagdahili sa yuta?\",\"answer\":\"pag-ayo sa maong dan.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Ang Toledo wharf road maoy karaan ug duol nga agianan sa padulong sa dakbayan sa Toledo ug pabalik sa Talisay.\",\"question\":\"Unsay ngalan sa karaang agianan padulong sa Toledo gikan sa Talisay?\",\"answer\":\"Toledo wharf road.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Subling panawagan sa CT-Toda ngadto sa mga motorista sa pagpangita og luwas nga dan nga kaagian.\",\"question\":\"Unsay panawagan sa CT-Toda ngadto sa mga motorista?\",\"answer\":\"pagpangita og luwas nga dan nga kaagian.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Si Abel dili pa makahatag og timeline kon kanus-a kini paagian og pagbalik og sakyanan.\",\"question\":\"Nganong dili makahatag og timeline si Abel?\",\"answer\":\"dili pa makahatag og timeline.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Ang Department of Public Works and Highways (DPWH) mosusi sa dapit karong buntag, Lunes, Oktubre 7, 2024, aron pag-assess sa kahimtang.\",\"question\":\"Kanus-a mosusi ang DPWH sa dapit sa pagdahili?\",\"answer\":\"Oktubre 7, 2024.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"\"   ,\"question\":\"Unsay risgo nga giingon ni Abel bahin sa pagdahili sa yuta?\",\"answer\":\"Risgo pa gyud nga agian.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"\"   ,\"question\":\"Unsa ang hinungdan nga nagsige og pangdahili ang yuta sumala ni Abel?\",\"answer\":\"labi na panahon nga mag-uwan.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Ang unang pagdahili sa yuta nga wala pa makaabot sa viewing deck apan ning ulahi, naabot na kini sa maong dapit.\",\"question\":\"Asa ang unang pagdahili nga wala pa makaabot sumala ni Abel?\",\"answer\":\"viewing deck.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Ang patag nga bahin ug daghang slope ang gisirahan sa Toledo Wharf Road.\",\"question\":\"Unsa nga bahin ang gisirahan sa Toledo Wharf Road?\",\"answer\":\"patag nga bahin ug daghang slope.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Si Abel nagkanayon nga ang unang pagdahili sa yuta nga wala pa makaabot sa viewing deck kundi nga niabot na.\",\"question\":\"Unsa ang pagkahimtang sa unang pagdahili sumala ni Abel?\",\"answer\":\"wala pa makaabot sa viewing deck.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"\"   ,\"question\":\"Kinsa ang nagsulti bahin sa risgo sa pagdahili?\",\"answer\":\"Abel.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Ang maong dapit gisirahan sa trapiko sukad sa unang pagdahili niadtong Martes.\",\"question\":\"Asa nga dapit ang gisirahan sa trapiko?\",\"answer\":\"Toledo Wharf Road.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Si Robert 'Nancy' Abel ang nahinabi sa Superbalita sa Dominggo.\",\"question\":\"Kinsa nga tawo ang nahinabi sa Superbalita?\",\"answer\":\"Robert 'Nancy' Abel.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"Dugang pa, ang mga motorista kinahanglan nga magpuyo sa luwas nga ruta.\",\"question\":\"Unsay kinahanglan buhaton sa mga motorista sumala sa CT-Toda?\",\"answer\":\"magpuyo sa luwas nga ruta.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"\"   ,\"question\":\"Unsa ang gikasultihan sa DPWH bahin sa sitwasyon sa daang kalsada?\",\"answer\":\"mag-assess sa kahimtang.\"},{\"title\":\"Landslide sa Kampo 4\",\"context\":\"\"   ,\"question\":\"Unsa ang kahimtang sa Toledo Wharf Road sa pagkakaron?\",\"answer\":\"gisirado gihapon sa trapiko.\"}]}",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 1568,
+                    "completion_tokens": 1281,
+                    "total_tokens": 2849,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0,
+                        "audio_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0,
+                        "audio_tokens": 0,
+                        "accepted_prediction_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_0ba0d124f1"
+            }
+        },
+        "error": null
+    }
+]

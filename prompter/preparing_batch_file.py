@@ -72,8 +72,8 @@ class QADataset(BaseModel):
     data: list[QA]
 
 requests = []
-start = 8
-end = 20
+start = 21
+end = 500
 
 for article in articles[start:end]:
     cebuano_article = {
@@ -94,7 +94,7 @@ for article in articles[start:end]:
                 }
             ],
             "response_format" : {
-                "type": "json_chema",
+                "type": "json_schema",
                 "json_schema": {
                     "name": "object",
                     "strict": True,
