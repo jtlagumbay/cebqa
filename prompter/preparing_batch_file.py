@@ -75,7 +75,7 @@ requests = []
 start = 8
 end = 50
 
-for article in articles[7:50]:
+for article in articles[7:20]:
     cebuano_article = {
         "title": article["pseudonymized_title"],
         "body": article["pseudonymized_body"]
@@ -93,7 +93,34 @@ for article in articles[7:50]:
                     "content": message
                 }
             ],
-            "response_format" : to_strict_json_schema(QADataset)
+            "response_format" : {
+                "type": "json_chema",
+                "json_schema": {
+                    "name": "object",
+                    "strict": True,
+                    "schema": {
+                        "type": "object",
+                        "properties": {
+                            "data": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "title": {"type": "string"},
+                                        "context": {"type": "string"},
+                                        "question": {"type": "string"},
+                                        "answer": {"type": "string"}
+                                    },
+                                    "required": ["title", "context", "question", "answer"],
+                                    "additionalProperties": False
+                                }
+                            }
+                        },
+                        "required": ["data"],
+                        "additionalProperties": False
+                    }
+                }
+            }
         }
     }
     requests.append(request)

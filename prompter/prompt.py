@@ -3,12 +3,13 @@ from pydantic import BaseModel
 import json
 from utils import *
 import time
+from openai.lib._pydantic import to_strict_json_schema
 
 client = OpenAI()
 
 cebuano_article =     {
-        "title": "Criminology student mihunong sa pagtungha",
-        "body": "Di na mopadayon sa pagtuon ang usa ka tinun-an sa Criminology nga giingong gikulata sa mga polis sa Police Station 4 sa Lapu-Lapu City Police Office (LCPO) human nasaypan nga mikawat og biseklita ug chainsaw. Ang 20-anyos nga tinun-an sa Criminology miingon atol sa pakighinabi sa mga tigbalita nga dili na niya ipadayon ang iyang pagtuon sa maong kurso tungod sa nasinati nga pag-abuso sa pulisya. “Dili na sir, way ayo mga polis sir, abusado,” matod sa biktima dihang gipangutana kon mopadayon ba siya sa iyang pagtuon niadtong Miyerkules, Oktubre 9, 2024Ang biktima nga usa ka 2nd year college sa kursong Criminology mitug-an nga wala na siya makatungha sukad niadtong Sabado, Oktubre 5 human sa giingong gikulata sa mga polis diha sa police station niadtong Biyernes, Oktubre 4.“Second year unta mam pero wa ko mu-eskuyla pag Sabado ma'am kay wa ko kadawat, wa ko kahimo sa activity nako,” matod sa biktima. Sa Facebook post sa usa ka sakop sa pamilya sa biktima niadtong Sabado, Oktubre 5, ang estudyante nga giila nga si “Johnrey,” giakusahan nga nangawat og bisikleta ug chainsaw gikan sa panimalay diin siya nagtrabaho isip caretaker sukad sa edad pa og 9 anyos. Samtang, si City Mayor Joelito “Ahong” Abalos, sa iyang Facebook post niadtong Dominggo, Oktubre 6, niingon nga iyang gimanduan ang LCPO sa paglusad og imbestigasyon sa usa ka insidente. Sa taho sa SunStar Cebu niadtong Lunes, Oktubre 7, personal nga gibisita ni Abalos ang tinun-an nga naa sa tambalanan aron mangayo og medikal nga tabang. Sa pinakaulahing update niadtong Miyerkules, Oktubre 9, unom ka mga polis gikan sa Station 4 sa LCPO ang girelibuhan. / CDF "
+        "title": "Abando midangop sa SC",
+        "body": "Ang gitaktak nga mayor, Brody Abando, nangayo og interbensyon sa Supreme Court (SC) aron babagan ang Commission on Elections (Comelec) sa pagpatuman sa dismissal order sa Office of the Ombudsman batok kaniya. Si Abando nisang-at og petisyon alang sa Certiorari, Prohibition, and Injunction atubangan sa SC niadtong Miyerkules, Oktubre 9, 2024, nga naghagit sa Comelec Resolution No. 1104-A, nga nagmando sa hinanaling pagkansela sa mga certificates of candidacy (COCs) sa mga kandidato nga nag-atubang og administratibo nga mga kaso bisan sa wala pa mahimong pinal ang desisyon. Ang Ombudsman, sa desisyon nga pinetsahan og Septiyembre 26, nitaktak kang Abando sa serbisyo human siya napamatud-ang sad-an sa grave misconduct tungod sa pagtugot sa padayong operasyon sa usa ka cement batching plant nga way gikinahanglang business ug environmental permits. Si City Administrator Jamaal Adrian Abangad nitug-an sa mga tigbalita niadtong Miyerkules nga si Abando nangayo og legal recourse susama sa kang Abangan. Ang legal nga lakang ni Abando susama sa gihimo sa dismissal nga mayor nga si Cedie Abangan nga niduso usab og petisyon sa SC aron hunongon ang iyang pagkataktak ug pagkadiskwalipikasyon sa serbisyo niadtong Oktubre 7.“The petition for certiorari under Rule 65 of the Supreme Court is a remedy available to the mayor, who stands to be injured by the implementation of this Comelec resolution. Mayor Brody and Mayor Lizer Abangan are in similar situations regarding this Comelec resolution’s application,” matod ni Abangad. Si Abangad miingon nga ang desisyon batok kaniya dili pa pinal, ug samtang ilang gitahod ang hukom sa Ombudsman, ilang gihagit ang dihadiha nga executory nga kinaiya sa desisyon ilabi na ang paglakip niini sa disqualification penalty. Ang pagkanselar sa iyang COC makapugong sa pagbotar ni Abando sa 2025 elections, usa ka lakang nga gihulagway ni Abangad nga usa ka “irreparable” injury sa mayor ug sa katawhan sa Mandaue City. “The disqualification penalty is not like dismissal. If the decision is reversed, the mayor could receive back wages for the time lost. But once disqualified, there’s no turning back, his name will be removed from the ballots, and the people’s choice in the election will be disregarded,” dugang ni Abangad. Ang legal team ni Abando nangayo og Temporary Restraining Order (TRO) o Writ of Preliminary Injunction gikan sa SC aron mapugngan ang Comelec sa pagpatuman sa resolusyon sa dili pa ang pag-imprinta sa mga balota nga gikatakdang sugdan karong Nobiyembre 15. Kung wala ang TRO, mahimong tangtangon sa Comelec ang ngalan ni Abando sa balota nga permanenteng makaapekto sa iyang kandidatura. Nikuwestiyon si Abando niadtong Martes sa  resolusyon sa Comelec kinsa nangatarongan nga nakalapas kini sa due process nga gigarantiya ubos sa 1987 Constitution. Iyang gihulagway ang resolusyon nga “unconstitutional” ug gimarkahan ang mga lihok sa Comelec nga “ridiculous”  ingon nga ang usa ka desisyon nga dili pinal kinahanglan dili magdala sa ingon ka grabe nga silot. “Now sa kani nga resolution asa naman ang hustisya ani? Is it just? Is it fair? That immediate executory judgment is not final,” dason ni Abando. Nangayo sab siya og dinaliang motion alang sa pagpahigayon og special raffle. Ang resolusyon naglakip sa mga probisyon alang sa dinaliang pagkansela sa COC alang sa mga kandidato nga gisilotan og disqualification sa Ombudsman bisan pa kon ang desisyon nakaabot na sa finality. Si Abando niingon nga ang maong resolusyon nagdaot sa katungod sa katawhan sa pagpili sa ilang mga lider sa usa ka demokratikong piniliay nga maoy labing importante. Sa wala pa moabot ang dismissal order, si Abando nagsilbi usab sa iyang usa ka tuig nga pagkasuspenso nga walay bayad nga gipahamtang kaniya sa Ombudsman sukad niadtong Agusto 12. Gisuspenso sa Ombudsman si Abando tungod sa grave misconduct ug conduct prejudicial to the best interest of the service tungod sa pagtudlo kang Abanto Abao isip officer-in-charge sa City Social Welfare Services Office niadtong 2022, nga matod pa sa Ombudsman. / CAV   "
     }
 
 message = """
@@ -83,11 +84,40 @@ completion = client.beta.chat.completions.parse(
             "content": message
         }
     ],
-    response_format=QADataset
+    # response_format= to_strict_json_schema(QADataset)
+    response_format = {
+                "type": "json_schema",
+                "json_schema": {
+                    "name": "object",
+                    "strict": True,
+                    "schema": {
+                        "type": "object",
+                        "properties": {
+                            "data": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "title": {"type": "string"},
+                                        "context": {"type": "string"},
+                                        "question": {"type": "string"},
+                                        "answer": {"type": "string"}
+                                    },
+                                    "required": ["title", "context", "question", "answer"],
+                                    "additionalProperties": False
+                                }
+                            }
+                        },
+                        "required": ["data"],
+                        "additionalProperties": False
+                    }
+                }
+            }
 )
+print(completion)
 
 output = completion.choices[0].message.parsed
-
+print(output)
 # Dump the model to a dictionary with JSON-compatible formatting
 output_dict = output.model_dump(mode='json')
 timestamp = time.strftime("%Y%m%d-%H%M%S")
@@ -95,4 +125,4 @@ timestamp = time.strftime("%Y%m%d-%H%M%S")
 # Print the dictionary with indentation using json.dumps()
 print(json.dumps(output_dict, indent=4))
 
-write_file(get_path(["prompter", f"qa-article-6-{timestamp}.json"]), output_dict)
+write_file(get_path(["prompter", f"qa-article-8-{timestamp}.json"]), output_dict)
