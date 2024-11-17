@@ -8,8 +8,8 @@ from openai.lib._pydantic import to_strict_json_schema
 client = OpenAI()
 
 cebuano_article =     {
-        "title": "Abando midangop sa SC",
-        "body": "Ang gitaktak nga mayor, Brody Abando, nangayo og interbensyon sa Supreme Court (SC) aron babagan ang Commission on Elections (Comelec) sa pagpatuman sa dismissal order sa Office of the Ombudsman batok kaniya. Si Abando nisang-at og petisyon alang sa Certiorari, Prohibition, and Injunction atubangan sa SC niadtong Miyerkules, Oktubre 9, 2024, nga naghagit sa Comelec Resolution No. 1104-A, nga nagmando sa hinanaling pagkansela sa mga certificates of candidacy (COCs) sa mga kandidato nga nag-atubang og administratibo nga mga kaso bisan sa wala pa mahimong pinal ang desisyon. Ang Ombudsman, sa desisyon nga pinetsahan og Septiyembre 26, nitaktak kang Abando sa serbisyo human siya napamatud-ang sad-an sa grave misconduct tungod sa pagtugot sa padayong operasyon sa usa ka cement batching plant nga way gikinahanglang business ug environmental permits. Si City Administrator Jamaal Adrian Abangad nitug-an sa mga tigbalita niadtong Miyerkules nga si Abando nangayo og legal recourse susama sa kang Abangan. Ang legal nga lakang ni Abando susama sa gihimo sa dismissal nga mayor nga si Cedie Abangan nga niduso usab og petisyon sa SC aron hunongon ang iyang pagkataktak ug pagkadiskwalipikasyon sa serbisyo niadtong Oktubre 7.“The petition for certiorari under Rule 65 of the Supreme Court is a remedy available to the mayor, who stands to be injured by the implementation of this Comelec resolution. Mayor Brody and Mayor Lizer Abangan are in similar situations regarding this Comelec resolution’s application,” matod ni Abangad. Si Abangad miingon nga ang desisyon batok kaniya dili pa pinal, ug samtang ilang gitahod ang hukom sa Ombudsman, ilang gihagit ang dihadiha nga executory nga kinaiya sa desisyon ilabi na ang paglakip niini sa disqualification penalty. Ang pagkanselar sa iyang COC makapugong sa pagbotar ni Abando sa 2025 elections, usa ka lakang nga gihulagway ni Abangad nga usa ka “irreparable” injury sa mayor ug sa katawhan sa Mandaue City. “The disqualification penalty is not like dismissal. If the decision is reversed, the mayor could receive back wages for the time lost. But once disqualified, there’s no turning back, his name will be removed from the ballots, and the people’s choice in the election will be disregarded,” dugang ni Abangad. Ang legal team ni Abando nangayo og Temporary Restraining Order (TRO) o Writ of Preliminary Injunction gikan sa SC aron mapugngan ang Comelec sa pagpatuman sa resolusyon sa dili pa ang pag-imprinta sa mga balota nga gikatakdang sugdan karong Nobiyembre 15. Kung wala ang TRO, mahimong tangtangon sa Comelec ang ngalan ni Abando sa balota nga permanenteng makaapekto sa iyang kandidatura. Nikuwestiyon si Abando niadtong Martes sa  resolusyon sa Comelec kinsa nangatarongan nga nakalapas kini sa due process nga gigarantiya ubos sa 1987 Constitution. Iyang gihulagway ang resolusyon nga “unconstitutional” ug gimarkahan ang mga lihok sa Comelec nga “ridiculous”  ingon nga ang usa ka desisyon nga dili pinal kinahanglan dili magdala sa ingon ka grabe nga silot. “Now sa kani nga resolution asa naman ang hustisya ani? Is it just? Is it fair? That immediate executory judgment is not final,” dason ni Abando. Nangayo sab siya og dinaliang motion alang sa pagpahigayon og special raffle. Ang resolusyon naglakip sa mga probisyon alang sa dinaliang pagkansela sa COC alang sa mga kandidato nga gisilotan og disqualification sa Ombudsman bisan pa kon ang desisyon nakaabot na sa finality. Si Abando niingon nga ang maong resolusyon nagdaot sa katungod sa katawhan sa pagpili sa ilang mga lider sa usa ka demokratikong piniliay nga maoy labing importante. Sa wala pa moabot ang dismissal order, si Abando nagsilbi usab sa iyang usa ka tuig nga pagkasuspenso nga walay bayad nga gipahamtang kaniya sa Ombudsman sukad niadtong Agusto 12. Gisuspenso sa Ombudsman si Abando tungod sa grave misconduct ug conduct prejudicial to the best interest of the service tungod sa pagtudlo kang Abanto Abao isip officer-in-charge sa City Social Welfare Services Office niadtong 2022, nga matod pa sa Ombudsman. / CAV   "
+        "title": "Abalayan-Abarca III tandem silyado na",
+        "body": "Niduso si Cebu City acting Mayor Jhonnylou Ghen Abalayan sa iyang certificate of candidacy (COC) alang sa pagka mayor sa dakbayan ubos sa Kusug-Panaghiusa coalition atol sa katapusang adlaw sa filing sa Martes, Oktubre 8, 2024. Nisaad nga mohimo pa kini og dugang kahigayunan sa mga residente niini aron mapalambo ang ilang kalidad sa kinabuhi. Si Abalayan ug ang iyang running mate nga si Porferio Abarca niabot sa buhatan sa Commission on Elections (Comelec) sa Dakbayan sa Sugbo alas 10:45 sa buntag ug niduso sa ilang COC uban sa line-up sa 16 ka mga kandidato sa pagka konsehal nga naglakip sa unom ka mga incumbent. “I am both honored and humbled to officially run as mayor and seek the mandate of the beloved citizens of Cebu City,” matod ni Abalayan atubangan sa dili mominos 3,000 ka supporters nga naghugyaw alang sa mga kandidato ubos sa Kusug-Panaghiusa coalition human sa pag-file sa ilang COCs. Si Abalayan maoy acting chief executive sa dakbayan sukad niadtong Mayo nunot sa unom ka buwan nga preventive suspension ni Mayor Lizer Abangan sa Office of the Ombudsman tungod sa kapakyas pagbayad sa sweldo sa upat ka mga empleyado sa City Hall. Gidayeg siya sa iyang mga konstituwente isip \"action mayor\" tungod sa iyang makita nga mga nahimo bisan pa sa iyang mubo nga paglingkod isip amahan sa Dakbayan sa Sugbo, lakip niini ang paghuman sa Guba Community Hospital ug sa Apas Super Family Health Center nga wala mahuman sulod sa daghang katuigan hangtod nga iyang gipulihan ug gipabalik ang mga proyekto sa hingpit nga paglihok. Giaprobahan ni Abalayan ang pagpalit og mga sakyanan sa kapulisan—usa ka hangyo nga dugay nang nagpaabot—sa dihang siya ang nagdumala sa Dakbayan sa Sugbo sa tinguha nga mapalig-on ang kalinaw ug kahusay. Ang 47-anyos nga Abalayan, ang kinamanghuran nga kandidato sa four-way fight, maoy bise mayor ug running mate ni Abangan niadtong 2022. Nibarog siya sa hagit ug malampusong nakahatag og kalig-on sa nagkurog nga lokal nga kagamhanan ug polarized community. Ang full line-up  sa mga konsehal nga nidagan ubos sa Kusug-Panaghiusa coalition ticket  nalakip ni Cristitulo Abarquez, Cleret Abastar ug Serging Abastillas gikan sa north district ug Adrian Abaya, Jeff Abayon, ug Renato “Cristitulojun” Abcede gikan sa south.  Mikompleto sa ilang line-up mao sila si Joan Abdon, Remigio Go, Charie Rizali Jeganiel, RJ Abcede, Khart Abdulraman sa north district ug  Hannah Abe, Abecia Abenosa, Percival Jeganiel, Leonard Abastillas and Elmer Abel sa south district. / JPS"
     }
 
 message = """
@@ -76,7 +76,7 @@ class QA(BaseModel):
 class QADataset(BaseModel):
     data: list[QA]
 
-completion = client.beta.chat.completions.parse(
+completion = client.chat.completions.create(
     model="gpt-4o-mini",
     messages=[
         {
@@ -116,13 +116,13 @@ completion = client.beta.chat.completions.parse(
 )
 print(completion)
 
-output = completion.choices[0].message.parsed
+output = completion.choices[0].message.content
 print(output)
-# Dump the model to a dictionary with JSON-compatible formatting
-output_dict = output.model_dump(mode='json')
+# # Dump the model to a dictionary with JSON-compatible formatting
+# output_dict = output.model_dump(mode='json')
 timestamp = time.strftime("%Y%m%d-%H%M%S")
 
-# Print the dictionary with indentation using json.dumps()
-print(json.dumps(output_dict, indent=4))
+# # Print the dictionary with indentation using json.dumps()
+# print(json.dumps(output_dict, indent=4))
 
-write_file(get_path(["prompter", f"qa-article-8-{timestamp}.json"]), output_dict)
+write_file(get_path(["prompter", f"qa-article-9-{timestamp}.json"]), output)

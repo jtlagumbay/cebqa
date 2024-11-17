@@ -73,9 +73,9 @@ class QADataset(BaseModel):
 
 requests = []
 start = 8
-end = 50
+end = 20
 
-for article in articles[7:20]:
+for article in articles[start:end]:
     cebuano_article = {
         "title": article["pseudonymized_title"],
         "body": article["pseudonymized_body"]
