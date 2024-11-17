@@ -37,17 +37,17 @@ client = OpenAI()
 ## CHECKING BATCH STATUS
 # print("Checking batch status")
 # batch_status = client.batches.retrieve("batch_67398341a66081908debc589bd4d3a1f")
-# batch_status = client.batches.retrieve("batch_673997e37b508190a6270b0a285d740c")
+batch_status = client.batches.retrieve("batch_673997e37b508190a6270b0a285d740c")
 
-# print(batch_status)
+print(batch_status)
 
 ## RETRIEVING RESULT CONTENT
-file_response = client.files.content("file-fy0aksLxaJINj9mjAdcIFo6N")
+# file_response = client.files.content("file-fy0aksLxaJINj9mjAdcIFo6N")
 # print(file_response.text)
-timestamp = time.strftime("%Y%m%d-%H%M%S")
-lines = file_response.text.splitlines()
+# timestamp = time.strftime("%Y%m%d-%H%M%S")
+# lines = file_response.text.splitlines()
 
-write_file(get_path(["prompter", f"qa-article-9-20-{timestamp}.json"]), [json.loads(line) for line in lines])
+# write_file(get_path(["prompter", f"qa-article-9-20-{timestamp}.json"]), [json.loads(line) for line in lines])
 
 
 # 11-17 13:47
