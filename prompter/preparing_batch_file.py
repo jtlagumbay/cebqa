@@ -21,10 +21,9 @@ def create_prompt(cebuano_article):
     - Choose a context sentence or adjacent sentences from the article's body where the question is formulated.
     - Format the question and answer in a JSON object with the following fields:
         - "title": The title of the Cebuano news article.
-        - "context": The sentence or adjacent sentences or paragraph from the article's body where the question is derived, ensuring that the context contains the answer. Context can be a more than one sentence, and can also be reused in another question, as long as it does not paraphrase the article's body.
+        - "context": The sentence or adjacent sentences from the article's body where the question is derived, ensuring that the context contains the answer. Context can be a more than one sentence, and can also be reused in another question, as long as it does not paraphrase the article's body.
         - "question": A question based on the selected context.
         - "answer": The exact, brief answer found within the context.
-
     4. Ensure that:
     - All questions and answers are written in Cebuano.
     - No questions are repeated.
@@ -45,7 +44,7 @@ def create_prompt(cebuano_article):
             "title": "Biyahe paingon sa mga lalawigan sa CV gisuspenso",
             "context": "Daghang biyahe sa barko nga gikan sa Cebu ang gipasuspenso tungod sa daotang panahon ug dagkong bawod.",
             "question": "Nganong gisuspenso ang biyahe sa barko gikan sa Cebu?",
-            "answer": "daotang panahon ug dagkong bawod."
+            "answer": "daotang panahon ug dagkong bawod"
         },
         {
             "title": "Biyahe paingon sa mga lalawigan sa CV gisuspenso",
@@ -72,8 +71,8 @@ class QADataset(BaseModel):
     data: list[QA]
 
 requests = []
-start = 21
-end = 500
+start = 1501
+end = 1702
 
 for article in articles[start:end]:
     cebuano_article = {
