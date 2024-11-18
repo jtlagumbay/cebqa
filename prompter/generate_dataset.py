@@ -36,7 +36,7 @@ def retrieve_batch_status(batch_id):
 
 def retrieve_result_content(file_id, start, end):
     print(f"\nRetrieve result content\n")
-    file_response = client.files.content("file-fy0aksLxaJINj9mjAdcIFo6N")
+    file_response = client.files.content(file_id)
     timestamp = time.strftime("%Y%m%d-%H%M%S")
     lines = file_response.text.splitlines()
     write_file(get_path(["prompter", f"qa-article-{start}-{end}-{timestamp}.json"]), [json.loads(line) for line in lines])
