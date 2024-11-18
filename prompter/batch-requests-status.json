@@ -1,23 +1,23 @@
 {
-    "last_updated": "2024-11-17T21:11:21.696707",
+    "last_updated": "2024-11-18T09:25:58.088993",
     "data": [
         {
             "batch_input_file": "batch-request-21-300.jsonl",
             "uploaded_input_file": "file-0o7D0YjnezNqk9qYJckavEKh",
             "batch_request_id": "batch_6739eb5830f08190ab357e17430c2287",
-            "request_status": "ongoing"
+            "request_status": "done"
         },
         {
             "batch_input_file": "batch-request-301-600.jsonl",
             "uploaded_input_file": "file-aVZDGVrlmUW224BTMINwTKbx",
-            "batch_request_id": null,
-            "request_status": "todo"
+            "batch_request_id": "batch_673a85bd18108190ae91abf9626ad6a9",
+            "request_status": "done"
         },
         {
             "batch_input_file": "batch-request-601-900.jsonl",
             "uploaded_input_file": "file-MfO40iak2D0t6qo4DwnuVvw0",
-            "batch_request_id": null,
-            "request_status": "todo"
+            "batch_request_id": "batch_673a97a5eb20819081d9c6aa404de8ef",
+            "request_status": "ongoing"
         },
         {
             "batch_input_file": "batch-request-901-1200.jsonl",
