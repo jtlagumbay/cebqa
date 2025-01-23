@@ -45,7 +45,7 @@ def save_to_json(data, filename):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 def scrape_articles():
-    article_urls = load_urls_from_json(FOLDER_PATH + "/script-20241012-090850.json")
+    article_urls = load_urls_from_json(FOLDER_PATH + "/script-20241121-173840.json")
 
     articles = []
     error_articles = []

@@ -8,6 +8,14 @@ def write_file(path, data):
             for item in data:
                 f.write(json.dumps(item, ensure_ascii=False) + '\n')
         return
+    
+    if path.endswith('.csv'):
+        # Assuming data is a list of dictionaries for CSV
+        with open(path, 'w', encoding='utf-8', newline='') as f:
+            writer = csv.DictWriter(f, fieldnames=data[0].keys())
+            writer.writeheader()
+            writer.writerows(data)
+        return
 
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)

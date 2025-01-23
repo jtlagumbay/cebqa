@@ -1,0 +1,41 @@
+{
+    "last_updated": "2024-11-26T08:33:45.594980",
+    "data": [
+        {
+            "batch_input_file": "batch-request-4o-330-350.jsonl",
+            "uploaded_input_file": "file-ME7ajUsefZ5bHauAp12P7f",
+            "batch_request_id": "batch_67411e0610d08190b10e1af06d213c94",
+            "request_status": "done"
+        },
+        {
+            "batch_input_file": "batch-request-4o-350-500.jsonl",
+            "uploaded_input_file": "file-XPNP7zbbv3teYkfUMVb43i",
+            "batch_request_id": "batch_674325e29fd08190be9b802adbc0762b",
+            "request_status": "error"
+        },
+        {
+            "batch_input_file": "batch-request-4o-500-800.jsonl",
+            "uploaded_input_file": "file-D71XrMH2f8ZBPvpzbJ85iw",
+            "batch_request_id": "batch_6745176969b881908a5c3c8094ff9617",
+            "request_status": "ongoing"
+        },
+        {
+            "batch_input_file": "batch-request-4o-800-1100.jsonl",
+            "uploaded_input_file": "file-SpsAXcM3qXX9waViCsmBp8",
+            "batch_request_id": null,
+            "request_status": "todo"
+        },
+        {
+            "batch_input_file": "batch-request-4o-1100-1400.jsonl",
+            "uploaded_input_file": "file-PZDSRUiANvRxgD9B1N5jif",
+            "batch_request_id": null,
+            "request_status": "todo"
+        },
+        {
+            "batch_input_file": "batch-request-4o-1400-1710.jsonl",
+            "uploaded_input_file": "file-Ny5UFXYa96qJwrbwjkenPF",
+            "batch_request_id": null,
+            "request_status": "todo"
+        }
+    ]
+}

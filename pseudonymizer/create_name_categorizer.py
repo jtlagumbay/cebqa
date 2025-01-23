@@ -65,20 +65,20 @@ if __name__ == "__main__":
     name_male_btn = tk.Button(root, text="(2) Male", command=lambda: mark_name(GIVEN_NAME_MALE))
     name_male_btn.pack(padx=10, pady=10)
 
-    name_male_btn = tk.Button(root, text="(3) Unisex", command=lambda: mark_name(GIVEN_NAME_EITHER))
+    name_male_btn = tk.Button(root, text="(3) Surname", command=lambda: mark_name(GIVEN_NAME_EITHER))
     name_male_btn.pack(padx=10, pady=10)
 
-    surname_chinese_btn = tk.Button(root, text="(4) Chinese", command=lambda: mark_name(SURNAME_CH))
-    surname_chinese_btn.pack(padx=10, pady=10)
+    # surname_chinese_btn = tk.Button(root, text="(4) Chinese", command=lambda: mark_name(SURNAME_CH))
+    # surname_chinese_btn.pack(padx=10, pady=10)
 
-    surname_moro_btn = tk.Button(root, text="(5) Moro", command=lambda: mark_name(SURNAME_MORO))
-    surname_moro_btn.pack(padx=10, pady=10)
+    # surname_moro_btn = tk.Button(root, text="(5) Moro", command=lambda: mark_name(SURNAME_MORO))
+    # surname_moro_btn.pack(padx=10, pady=10)
 
-    surname_other_btn = tk.Button(root, text="(6) Other", command=lambda: mark_name(SURNAME_OTHER))
-    surname_other_btn.pack(padx=10, pady=10)
+    # surname_other_btn = tk.Button(root, text="(6) Other", command=lambda: mark_name(SURNAME_OTHER))
+    # surname_other_btn.pack(padx=10, pady=10)
 
-    surname_other_btn = tk.Button(root, text="(7) Not name", command=lambda: mark_name(NOT_NAME))
-    surname_other_btn.pack(padx=10, pady=10)
+    # surname_other_btn = tk.Button(root, text="(7) Not name", command=lambda: mark_name(NOT_NAME))
+    # surname_other_btn.pack(padx=10, pady=10)
 
     close_btn = tk.Button(root, text="close", command=close_window)
     close_btn.pack(padx=10, pady=10)

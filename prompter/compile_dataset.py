@@ -16,7 +16,8 @@ def retrieve_batch_status(batch_id):
     print(f"\nRetrieving batch status\n")
     return client.batches.retrieve(batch_id)
 
-batch_request = read_file(get_path(["prompter", "batch-requests-status.json"]))
+batch_request_status_file = "batch-requests-status-4o.json"
+batch_request = read_file(get_path(["prompter", batch_request_status_file]))
 
 qas_dataset = []
 error_article = []
@@ -45,21 +46,24 @@ for request in batch_request["data"]:
 
             # Processing each question-answer per article
             for i, qa in enumerate(qas_data):
-                qa_id = f"{int(article_id):05}-{(i+1):03}"
+                qa_id = f"4o-{int(article_id):05}-{(i+1):03}"
                 print(f"\tProcessing question {qa_id}")
                 
                 qa['article_id'] = article_id
+                qa['context'] = qa['context'].rstrip(",.")
+                qa['answer'] = qa['answer'].rstrip(",.")
                 qa['qa_id'] = qa_id
                 qas_dataset.append(qa)
         except Exception as e:
             print(e)
             error_article.append(article_id)
 
-    write_file(get_path(["prompter", f"batch-result-{article_range}.json"]), request_data)
+    write_file(get_path(["prompter", f"batch-result-4o-{article_range}.json"]), request_data)
 
 
 timestamp = time.strftime("%Y%m%d-%H%M%S")
-write_file(get_path(["prompter", f"qas-dataset-{timestamp}.json"]), qas_dataset)
-write_file(get_path(["prompter", f"qas-dataset-error-{timestamp}.json"]), error_article)
+write_file(get_path(["prompter", f"qas-dataset-4o-{timestamp}.json"]), qas_dataset)
+write_file(get_path(["prompter", f"qas-dataset-4o-{timestamp}.csv"]), qas_dataset)
+write_file(get_path(["prompter", f"qas-dataset-error-4o-{timestamp}.json"]), error_article)
 print(f"Finished processing. \nTotal of {len(qas_dataset)} successfully parsed questions. \nTotal of {len(error_article)} error articles.")
     

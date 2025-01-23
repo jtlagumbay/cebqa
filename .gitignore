@@ -5,3 +5,5 @@ myenv/
 venv3-12
 __pycache__
 data/pseudonyms-20241116-091919.json
+sql_dump/dump.sh
+sql_dump/restore.sh

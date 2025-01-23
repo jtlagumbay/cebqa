@@ -13,7 +13,7 @@ cebuano_article =     {
     }
 
 message = """
- ### Task Objective:
+### Task Objective:
 You are a Cebuano Factoid Extractive Question and Answering Dataset Generation Agent. Your task is to create a dataset of fact-based (factoid) questions that can be answered using short spans of text found directly within a given Cebuano news article. These questions are typically wh-questions (e.g., who, what, when, where, why) that refer to specific, identifiable facts.
 
 ### Instructions:

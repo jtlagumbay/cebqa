@@ -6,6 +6,9 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
+
 
 
 HOME_URL = "https://www.sunstar.com.ph/superbalita-cebu"
@@ -20,7 +23,12 @@ def get_page_source(url):
     chrome_options.add_argument("--disable-notifications")
     chrome_options.add_argument("--disable-features=CookiesWithoutSameSiteMustBeSecure")
 
-    driver = webdriver.Chrome(options = chrome_options)
+        # Use Service to manage ChromeDriver
+    service = Service(ChromeDriverManager().install())
+
+    # Initialize the WebDriver
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+
     time.sleep(10)
     driver.get(url)
     iter = 0

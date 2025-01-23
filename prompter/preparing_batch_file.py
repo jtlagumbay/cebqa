@@ -71,8 +71,8 @@ class QADataset(BaseModel):
     data: list[QA]
 
 requests = []
-start = 1501
-end = 1702
+start = 370
+end = 450
 
 for article in articles[start:end]:
     cebuano_article = {
@@ -85,7 +85,7 @@ for article in articles[start:end]:
         "method": "POST", 
         "url": "/v1/chat/completions", 
         "body": {
-            "model": "gpt-4o-mini", 
+            "model": "gpt-4o", 
             "messages": [
                 {
                     "role": "system", 
@@ -125,4 +125,4 @@ for article in articles[start:end]:
     requests.append(request)
 
 # print(requests)
-write_file(get_path(["prompter", f"batch-request-{start}-{end}.jsonl"]), requests)
+write_file(get_path(["prompter", f"batch-request-4o-{start}-{end}.jsonl"]), requests)

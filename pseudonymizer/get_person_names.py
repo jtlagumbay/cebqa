@@ -132,22 +132,22 @@ if __name__ == "__main__":
 
     # Ger person names in article
 
-    # for article in articles[5]:
-    #     print(f"Processing {article["id"]}, {article["title"]}")
-    #     body = article["body"]
-    #     persons = get_person_names(body, stop_words)
+    for article in articles[10:15]:
+        print(f"Processing {article["id"]}, {article["title"]}")
+        body = article["body"]
+        persons = get_person_names(body, stop_words)
 
-    #     if persons:
-    #         for person in persons:
-    #             if person not in person_names:
-    #                 person_names.append(person)
-    #     else:
-    #         article_error_id.append(article["id"])
-    #         print(f"Error Processing {article["id"]}, {article["title"]}")
+        if persons:
+            for person in persons:
+                if person not in person_names:
+                    person_names.append(person)
+        else:
+            article_error_id.append(article["id"])
+            print(f"Error Processing {article["id"]}, {article["title"]}")
 
 
-    # with open(person_names_path, 'w', encoding='utf-8') as f:
-    #     json.dump(person_names, f, ensure_ascii=False, indent=4)
-    # write_file()
+    with open(person_names_path, 'w', encoding='utf-8') as f:
+        json.dump(person_names, f, ensure_ascii=False, indent=4)
+    
 
-    # print(f"Error id: {article_error_id}")
+    print(f"Error id: {article_error_id}")
