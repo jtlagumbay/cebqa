@@ -45,23 +45,6 @@ def retrieve_result_content(file_id, start, end):
 def list_of_all_batches():
     return client.batches.list()
 
-# batch_requests_jsonl = [
-#     "batch-request-21-300.jsonl",
-#     "batch-request-301-600.jsonl",
-#     "batch-request-601-900.jsonl",
-#     "batch-request-901-1200.jsonl",
-#     "batch-request-1201-1500.jsonl",
-#     "batch-request-1501-1701.jsonl",
-# ]
-
-batch_requests_jsonl = [
-    "batch-request-4o-330-350.jsonl",
-    "batch-request-4o-350-500.jsonl",
-    "batch-request-4o-500-800.jsonl",
-    "batch-request-4o-800-1100.jsonl",
-    "batch-request-4o-1100-1400.jsonl",
-    "batch-request-4o-1400-1710.jsonl"
-]
 batch_requests_status_file = "batch-requests-status-4o.json"
 batch_requests_status = read_file(get_path(["prompter", batch_requests_status_file]))
 

@@ -1,23 +1,11 @@
 {
-    "last_updated": "2024-11-27T12:52:42.903432",
+    "last_updated": "2025-02-01T14:17:42.793768",
     "data": [
         {
-            "batch_input_file": "batch-request-4o-330-350.jsonl",
-            "uploaded_input_file": "file-ME7ajUsefZ5bHauAp12P7f",
-            "batch_request_id": "batch_67411e0610d08190b10e1af06d213c94",
-            "request_status": "done"
-        },
-        {
-            "batch_input_file": "batch-request-4o-350-370.jsonl",
-            "uploaded_input_file": "file-3hTdASWAygnBNp5mNMdC1r",
-            "batch_request_id": "batch_674518551a308190adacf8750a34e6f9",
-            "request_status": "done"
-        },
-        {
-            "batch_input_file": "batch-request-4o-370-450.jsonl",
-            "uploaded_input_file": "file-8nxJXSePifVbiy4L9EMgoq",
-            "batch_request_id": "batch_67466fc9c190819083ea03fa5d81f658",
-            "request_status": "error"
+            "batch_input_file": "batch-request-0-21.jsonl",
+            "uploaded_input_file": "file-RgyWSKjZ9eSvcM3sfeLGVt",
+            "batch_request_id": "batch_679d86f9161c8190bb9a5d0195e7304f",
+            "request_status": "ongoing"
         }
     ]
 }

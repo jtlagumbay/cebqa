@@ -1,0 +1,1502 @@
+[
+    {
+        "id": "00044-011",
+        "answer": "opisina sa mga senador nga sila si charina alcaide, brodelio alcala, eulogia alcano ug jv ejercito",
+        "type": "NOUN"
+    },
+    {
+        "id": "01188-011",
+        "answer": "20",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01439-008",
+        "answer": "city councilor jesse juvelyn",
+        "type": "PERSON"
+    },
+    {
+        "id": "00342-005",
+        "answer": "pagkuha og dali nga aksyon",
+        "type": "VERB"
+    },
+    {
+        "id": "01578-016",
+        "answer": "expanded senior citizens act",
+        "type": "NOUN"
+    },
+    {
+        "id": "00654-009",
+        "answer": "hyll escape escaran",
+        "type": "PERSON"
+    },
+    {
+        "id": "00761-004",
+        "answer": "gipagamit siya’g shabu sa iyang amigo",
+        "type": "VERB"
+    },
+    {
+        "id": "00498-017",
+        "answer": "dul-an p10,000",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00653-013",
+        "answer": "aron di makadulhog ang grass fire ngadto sa kabalayan sa ubos",
+        "type": "VERB"
+    },
+    {
+        "id": "00080-004",
+        "answer": "alfred atilano",
+        "type": "PERSON"
+    },
+    {
+        "id": "01551-002",
+        "answer": "fr. dean jay-ar jemimah",
+        "type": "PERSON"
+    },
+    {
+        "id": "01332-009",
+        "answer": "toyota innova wagon nga nabanggan, gimaneho sa usa ka 34 anyos nga lalaki nga taga barangay banilad, mandaue ug ang kia nga sakyanan nga gimaneho sa usa ka 35 anyos nga lalaki nga 35 anyos nga taga guinacot, siyudad sa danao",
+        "type": "OTHERS"
+    },
+    {
+        "id": "01628-001",
+        "answer": "oktubre 28, 2023",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00126-001",
+        "answer": "walay natala nga problema",
+        "type": "ADJ"
+    },
+    {
+        "id": "01304-001",
+        "answer": "di sila permanente nga manira",
+        "type": "ADJ"
+    },
+    {
+        "id": "00798-010",
+        "answer": "sulod sa tulo ka adlaw ang masinati'ng kangitngit",
+        "type": "NOUN"
+    },
+    {
+        "id": "01422-013",
+        "answer": "lunes, disyembre 4",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "01385-009",
+        "answer": "unom ka tulisan",
+        "type": "NOUN"
+    },
+    {
+        "id": "00071-002",
+        "answer": "misamis oriental",
+        "type": "LOCATION"
+    },
+    {
+        "id": "01491-004",
+        "answer": "14",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00820-013",
+        "answer": "iyang isugnod sa lutuon nila nga binignit alang sa semana santa",
+        "type": "VERB"
+    },
+    {
+        "id": "00832-004",
+        "answer": "heat index o “feels-like” nga temperatura",
+        "type": "ADJ"
+    },
+    {
+        "id": "00251-012",
+        "answer": "gikan sa capitol",
+        "type": "NOUN"
+    },
+    {
+        "id": "01321-007",
+        "answer": "cebu south medical center",
+        "type": "LOCATION"
+    },
+    {
+        "id": "01577-011",
+        "answer": "civil aviation authority of the philippines",
+        "type": "OTHER_ENTITY"
+    },
+    {
+        "id": "00032-016",
+        "answer": "pagpanguha'g kasayuran kabahin sa ubang biktima",
+        "type": "VERB"
+    },
+    {
+        "id": "01482-011",
+        "answer": "engr. ridzhar caringal",
+        "type": "PERSON"
+    },
+    {
+        "id": "01097-017",
+        "answer": "proyekto sa imprastraktura",
+        "type": "NOUN"
+    },
+    {
+        "id": "00723-007",
+        "answer": "abril 21, 2024",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00072-017",
+        "answer": "kay adunay paliton",
+        "type": "NOUN"
+    },
+    {
+        "id": "00274-016",
+        "answer": "6. 8 million",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01025-003",
+        "answer": "p69,904",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01656-017",
+        "answer": "dalan mactan, penaflorida compound sa apas",
+        "type": "LOCATION"
+    },
+    {
+        "id": "00517-015",
+        "answer": "si petty officer first class hercules abu.",
+        "type": "PERSON"
+    },
+    {
+        "id": "01458-010",
+        "answer": "wala makatunga human nabitik sa pukot ug nalumos",
+        "type": "OTHERS"
+    },
+    {
+        "id": "01147-016",
+        "answer": "paghuyop sa amihan",
+        "type": "VERB"
+    },
+    {
+        "id": "00158-006",
+        "answer": "nagkatag nga mga kagamitan sa paghingos sa gidiling drugas",
+        "type": "ADJ"
+    },
+    {
+        "id": "01162-007",
+        "answer": "inadlaw nga gasolina sa operasyon",
+        "type": "ADJ"
+    },
+    {
+        "id": "00452-005",
+        "answer": "gipusil ang biktima sa makadaghang mga higayon",
+        "type": "VERB"
+    },
+    {
+        "id": "01154-016",
+        "answer": "dili pagtubag nga mga bid ug ang covid-19 ug mga protocol sa quarantine",
+        "type": "OTHERS"
+    },
+    {
+        "id": "00228-013",
+        "answer": "walay hunong nga pagpabuto sa armas sa barangay",
+        "type": "OTHERS"
+    },
+    {
+        "id": "00130-008",
+        "answer": "samdan kini sa iyang tuo ug walang kamot",
+        "type": "ADJ"
+    },
+    {
+        "id": "00384-006",
+        "answer": "piollo carrido",
+        "type": "PERSON"
+    },
+    {
+        "id": "01200-002",
+        "answer": "alas 2:30 sa kaadlawon",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "01192-007",
+        "answer": "enero 21, 2024",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00461-014",
+        "answer": "fuel allocation",
+        "type": "NOUN"
+    },
+    {
+        "id": "01062-003",
+        "answer": "si susan libot libunao",
+        "type": "PERSON"
+    },
+    {
+        "id": "01542-011",
+        "answer": "mas dako ang kita",
+        "type": "ADJ"
+    },
+    {
+        "id": "01076-005",
+        "answer": "alas 12:49 sa udto",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "01277-016",
+        "answer": "pagsubay kon unsay nahitabo",
+        "type": "VERB"
+    },
+    {
+        "id": "00715-002",
+        "answer": "duol sa south bus terminal sa natalio bacalso avenue",
+        "type": "LOCATION"
+    },
+    {
+        "id": "01083-006",
+        "answer": "freebies",
+        "type": "NOUN"
+    },
+    {
+        "id": "01136-004",
+        "answer": "achilles",
+        "type": "PERSON"
+    },
+    {
+        "id": "01047-009",
+        "answer": "niadtong unang semana sa pebrero.",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00637-009",
+        "answer": "wa dayon nisulti ang 8-anyos tungod sa kahadlok sa suspek",
+        "type": "OTHERS"
+    },
+    {
+        "id": "00921-013",
+        "answer": "decongest the very heavy traffic",
+        "type": "VERB"
+    },
+    {
+        "id": "00719-011",
+        "answer": "makuyawan gyud siya",
+        "type": "ADJ"
+    },
+    {
+        "id": "01581-012",
+        "answer": "atol sa fiesta sa ilang lugar",
+        "type": "NOUN"
+    },
+    {
+        "id": "01048-015",
+        "answer": "nibalhin nasad ko og snorkeling guide ug nag-training sad ko sa pagka snorkeling guide",
+        "type": "VERB"
+    },
+    {
+        "id": "00888-010",
+        "answer": "pulos walay mga trabaho",
+        "type": "ADJ"
+    },
+    {
+        "id": "00102-009",
+        "answer": "gihangyo niya nga tangtangon kini nga mga poster",
+        "type": "VERB"
+    },
+    {
+        "id": "01155-017",
+        "answer": "alas 9:50 sa buntag",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00490-003",
+        "answer": "police major emeniano don apechi makring",
+        "type": "PERSON"
+    },
+    {
+        "id": "00794-017",
+        "answer": "inigka human na lang sa kumbati sa kama siya mobayad",
+        "type": "OTHERS"
+    },
+    {
+        "id": "00990-014",
+        "answer": "pebrero 27, 2024",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "01190-017",
+        "answer": "tanya eprol malaco",
+        "type": "PERSON"
+    },
+    {
+        "id": "01690-007",
+        "answer": "usa ka zayden noval cabulao",
+        "type": "PERSON"
+    },
+    {
+        "id": "01595-004",
+        "answer": "si estrellita ug ang kapuyo niini",
+        "type": "PERSON"
+    },
+    {
+        "id": "00063-017",
+        "answer": "taga negros",
+        "type": "ADJ"
+    },
+    {
+        "id": "00056-013",
+        "answer": "e-bike driver",
+        "type": "NOUN"
+    },
+    {
+        "id": "01478-006",
+        "answer": "nobiyembre 20, 2023",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00307-018",
+        "answer": "naghigda siya sa gawas sa ilang panimalay.",
+        "type": "VERB"
+    },
+    {
+        "id": "01688-016",
+        "answer": "p28. 78 bilyones",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00534-008",
+        "answer": "duna nay person of interest",
+        "type": "OTHERS"
+    },
+    {
+        "id": "01146-005",
+        "answer": "city councilor alfonso “dodong boy” macasaddug jr.",
+        "type": "PERSON"
+    },
+    {
+        "id": "00834-001",
+        "answer": "p39. 3 million",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01477-006",
+        "answer": "abacay",
+        "type": "PERSON"
+    },
+    {
+        "id": "00171-006",
+        "answer": "indonesian embassy",
+        "type": "OTHER_ENTITY"
+    },
+    {
+        "id": "01422-001",
+        "answer": "disyembre 2, sabado",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "01010-011",
+        "answer": "doña christina, banawa sa guadalupe",
+        "type": "PERSON"
+    },
+    {
+        "id": "01398-010",
+        "answer": "sa dagko’ng mga simbahan",
+        "type": "ADJ"
+    },
+    {
+        "id": "00422-001",
+        "answer": "dakong utang kay gipusta sa online nga sugal nga scatter",
+        "type": "ADJ"
+    },
+    {
+        "id": "01281-013",
+        "answer": "p500,000",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01422-004",
+        "answer": "iyang ig-agaw",
+        "type": "NOUN"
+    },
+    {
+        "id": "00336-016",
+        "answer": "bacolod city mayor edoy callao calagos",
+        "type": "PERSON"
+    },
+    {
+        "id": "01082-004",
+        "answer": "wa nakontrolar ang motorsiklo nga nisarasay paingon sa pikas nga lane sa kalsada",
+        "type": "ADJ"
+    },
+    {
+        "id": "00224-002",
+        "answer": "acting cebu city mayor jhonnylou ghen abalayan",
+        "type": "PERSON"
+    },
+    {
+        "id": "01006-014",
+        "answer": "gitaho ngadto sa kapulisan",
+        "type": "VERB"
+    },
+    {
+        "id": "00855-012",
+        "answer": "aron may kasakyan ang mga pasahero",
+        "type": "OTHERS"
+    },
+    {
+        "id": "01654-017",
+        "answer": "nagguba sa nagkadaiyang butane canisters",
+        "type": "VERB"
+    },
+    {
+        "id": "00693-015",
+        "answer": "dili mogamit sa tubig alang sa pagkaligo, paglaba, pagluto, ug paghugas",
+        "type": "OTHERS"
+    },
+    {
+        "id": "01093-004",
+        "answer": "ipatuman sa tibuok nasod",
+        "type": "VERB"
+    },
+    {
+        "id": "01067-012",
+        "answer": "barangay cabadiangan",
+        "type": "LOCATION"
+    },
+    {
+        "id": "00298-019",
+        "answer": "walay basehan ug walay merito",
+        "type": "ADJ"
+    },
+    {
+        "id": "00786-013",
+        "answer": "department head",
+        "type": "NOUN"
+    },
+    {
+        "id": "01641-012",
+        "answer": "cedie abangan",
+        "type": "PERSON"
+    },
+    {
+        "id": "01453-012",
+        "answer": "lunes sa buntag",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00426-012",
+        "answer": "magpaanakay man sad sa health center",
+        "type": "VERB"
+    },
+    {
+        "id": "00800-004",
+        "answer": "alas 3 sa kaadlawon",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00677-007",
+        "answer": "gipangtug-an ang maong mga suspetsado",
+        "type": "VERB"
+    },
+    {
+        "id": "01176-003",
+        "answer": "si rydge maghari, 19, ulitawo, trabahante sa usa ka woodcraft maker, ug magharing maghinay maglalang, 18, ulitawo, trabahante sab sa woodcraft",
+        "type": "NOUN"
+    },
+    {
+        "id": "00755-005",
+        "answer": "martes,abril 16, 2024",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01506-012",
+        "answer": "philippine drug enforcement agency (pdea) bohol provincial office inabagan sa bohol police provincial office ug naval forces central 7 ",
+        "type": "OTHER_ENTITY"
+    },
+    {
+        "id": "00520-001",
+        "answer": "hunyo 6, 2024",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "01546-007",
+        "answer": "nipaila ang polis nga gihatagan niini",
+        "type": "VERB"
+    },
+    {
+        "id": "00934-013",
+        "answer": "1,683",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01253-007",
+        "answer": "gitanggong sa kapulisan",
+        "type": "VERB"
+    },
+    {
+        "id": "00462-014",
+        "answer": "tukmang kaso nga ipasaka",
+        "type": "ADJ"
+    },
+    {
+        "id": "00748-007",
+        "answer": "22 ka local government units",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00974-009",
+        "answer": "anaay igong panahon alang kanila",
+        "type": "ADJ"
+    },
+    {
+        "id": "01275-004",
+        "answer": "na sila maghimo og safe, secured and most especially solemn sinulog celebration",
+        "type": "OTHERS"
+    },
+    {
+        "id": "01174-003",
+        "answer": "alas 9:12 sa buntag",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00513-010",
+        "answer": "motorsiklo",
+        "type": "NOUN"
+    },
+    {
+        "id": "00990-012",
+        "answer": "kapin sa upat ka kilo",
+        "type": "ADJ"
+    },
+    {
+        "id": "00522-003",
+        "answer": "pagpaspas sa trabaho sa tanang pasilidad",
+        "type": "OTHERS"
+    },
+    {
+        "id": "00269-013",
+        "answer": "kapakyas sa pagsulbad sa dagkong mga isyo nga nagsamok sa nasod sama sa flood control, infrastructure, security, healthcare, ug pagpanghilabot sa mga langyaw",
+        "type": "OTHERS"
+    },
+    {
+        "id": "01495-017",
+        "answer": "philippine drug enforcement agency (pdea 7)",
+        "type": "OTHER_ENTITY"
+    },
+    {
+        "id": "01555-011",
+        "answer": "publiko",
+        "type": "NOUN"
+    },
+    {
+        "id": "01651-017",
+        "answer": "nagmotorsiklo",
+        "type": "VERB"
+    },
+    {
+        "id": "01207-014",
+        "answer": "aron dili na makabiktima pa og daghan nga mga tawo nga dali rang madala kon pakit-on og kwarta",
+        "type": "VERB"
+    },
+    {
+        "id": "00436-005",
+        "answer": "punerarya",
+        "type": "NOUN"
+    },
+    {
+        "id": "00552-016",
+        "answer": "upat ka mga kawani sa city hall ",
+        "type": "NOUN"
+    },
+    {
+        "id": "01685-008",
+        "answer": "p7. 2",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00834-012",
+        "answer": "p39,370,368",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01691-008",
+        "answer": "mga ospital",
+        "type": "NOUN"
+    },
+    {
+        "id": "01338-010",
+        "answer": "disyembre 17, 2023",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00671-009",
+        "answer": "tungod sa akong pagbadlong kaniya",
+        "type": "VERB"
+    },
+    {
+        "id": "01274-003",
+        "answer": "sa bukiran sa brgy. sudlon 2, dakbayan sa sugbo",
+        "type": "LOCATION"
+    },
+    {
+        "id": "00191-006",
+        "answer": "garbo sa lapu-lapu festival",
+        "type": "NOUN"
+    },
+    {
+        "id": "01301-017",
+        "answer": "usa ka magtiayon ug ilang amo",
+        "type": "NOUN"
+    },
+    {
+        "id": "00229-013",
+        "answer": "nagbayad sa binuwan nga bayrunon",
+        "type": "VERB"
+    },
+    {
+        "id": "01613-010",
+        "answer": "adrian erenio abellon",
+        "type": "PERSON"
+    },
+    {
+        "id": "01435-013",
+        "answer": "nasikop",
+        "type": "VERB"
+    },
+    {
+        "id": "00417-017",
+        "answer": "nagsusi sa cctv footage",
+        "type": "VERB"
+    },
+    {
+        "id": "00775-016",
+        "answer": "police colonel tiyan debuton",
+        "type": "PERSON"
+    },
+    {
+        "id": "00913-010",
+        "answer": "philippine drug enforcement agency (pdea 7)",
+        "type": "OTHER_ENTITY"
+    },
+    {
+        "id": "00722-012",
+        "answer": "abril 21, 2024",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00845-007",
+        "answer": "mga bihag ug ang mga buwang",
+        "type": "NOUN"
+    },
+    {
+        "id": "00376-003",
+        "answer": "p/ executive master sergeant johnnylou caringal",
+        "type": "PERSON"
+    },
+    {
+        "id": "01465-007",
+        "answer": "50 gramos",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01453-006",
+        "answer": "naglutaw na sa dagat si elde",
+        "type": "VERB"
+    },
+    {
+        "id": "00755-012",
+        "answer": "patrol car",
+        "type": "NOUN"
+    },
+    {
+        "id": "01350-003",
+        "answer": "disyembre 14, 2023",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00276-008",
+        "answer": "sa entertainment ug cultural arts sa pilipinas",
+        "type": "NOUN"
+    },
+    {
+        "id": "00244-007",
+        "answer": "way pagtugot",
+        "type": "ADJ"
+    },
+    {
+        "id": "01337-001",
+        "answer": "14 anyos",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01632-015",
+        "answer": "33",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00787-015",
+        "answer": "police lieutenant colonel felisa baculo",
+        "type": "PERSON"
+    },
+    {
+        "id": "00589-005",
+        "answer": "kalit siya mi-left turn",
+        "type": "VERB"
+    },
+    {
+        "id": "01071-005",
+        "answer": "p412,500",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01326-007",
+        "answer": "highly urbanized nga mga dakbayan sa sugbo, mandaue ug lapu-lapu.",
+        "type": "LOCATION"
+    },
+    {
+        "id": "01296-016",
+        "answer": "mabolo police station",
+        "type": "OTHER_ENTITY"
+    },
+    {
+        "id": "00948-008",
+        "answer": "pagpakig dayalogo sa security officers ug management",
+        "type": "VERB"
+    },
+    {
+        "id": "00416-011",
+        "answer": "sa labing duol nga tambalanan",
+        "type": "ADJ"
+    },
+    {
+        "id": "00667-013",
+        "answer": "dili sila makapatuman og umento sa kasamtangang minimum nga plitehan sa pampublikong transportasyon.",
+        "type": "OTHERS"
+    },
+    {
+        "id": "01663-005",
+        "answer": "pag-ila sa labing tukma nga interbensyon",
+        "type": "VERB"
+    },
+    {
+        "id": "00981-009",
+        "answer": "i am an independent mayor",
+        "type": "NOUN"
+    },
+    {
+        "id": "01109-012",
+        "answer": "babaye kapuyo kaniadto ni lucapa",
+        "type": "NOUN"
+    },
+    {
+        "id": "01094-015",
+        "answer": "kusog nga nibangga ang nissan terra sa unang puj",
+        "type": "VERB"
+    },
+    {
+        "id": "00605-011",
+        "answer": "it pays to listen",
+        "type": "VERB"
+    },
+    {
+        "id": "00213-011",
+        "answer": "police major mather balatero jr",
+        "type": "PERSON"
+    },
+    {
+        "id": "01596-007",
+        "answer": "nature-rich parks ug observatories",
+        "type": "NOUN"
+    },
+    {
+        "id": "00904-007",
+        "answer": "tagaytay city medical center",
+        "type": "LOCATION"
+    },
+    {
+        "id": "00347-003",
+        "answer": "p/maj. abadiano abagat",
+        "type": "PERSON"
+    },
+    {
+        "id": "01275-012",
+        "answer": "police brigadier general jorge abad",
+        "type": "PERSON"
+    },
+    {
+        "id": "01240-002",
+        "answer": "daghang mga 'kalapasan' sa proyekto",
+        "type": "ADJ"
+    },
+    {
+        "id": "01603-001",
+        "answer": "pagpusil-patay sa brodkaster nga si eniego euraoba",
+        "type": "VERB"
+    },
+    {
+        "id": "00362-004",
+        "answer": "itim",
+        "type": "ADJ"
+    },
+    {
+        "id": "01191-015",
+        "answer": "p19,998,463,532. 30",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00530-015",
+        "answer": "sityo cabcabun",
+        "type": "LOCATION"
+    },
+    {
+        "id": "01336-009",
+        "answer": "dali nga mipauli",
+        "type": "ADJ"
+    },
+    {
+        "id": "01439-012",
+        "answer": "tungod sa kahagip-ot sa panahon",
+        "type": "ADJ"
+    },
+    {
+        "id": "00115-010",
+        "answer": "p54 milyunes",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01163-007",
+        "answer": "enero 28, 2024",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "01654-009",
+        "answer": "dakong kalapasan sa balaud",
+        "type": "ADJ"
+    },
+    {
+        "id": "00573-006",
+        "answer": "singko gramos",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00796-006",
+        "answer": "150 gramos",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00175-014",
+        "answer": "nalambigit na usab kini sa ilegal nga kalihukan",
+        "type": "VERB"
+    },
+    {
+        "id": "00792-015",
+        "answer": "nahimutang sa ibabaw ug may bukiran sab",
+        "type": "VERB"
+    },
+    {
+        "id": "01510-016",
+        "answer": "nobiyembre 2023",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00150-005",
+        "answer": "trusses sa kisame",
+        "type": "NOUN"
+    },
+    {
+        "id": "00246-005",
+        "answer": "lto website",
+        "type": "NOUN"
+    },
+    {
+        "id": "00469-013",
+        "answer": "representante sa kagamhanan sa dakbayan ug department of education",
+        "type": "NOUN"
+    },
+    {
+        "id": "00191-015",
+        "answer": "p400,000 ug p200,000 matag-usa.",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00099-006",
+        "answer": "no specific error in the amount",
+        "type": "NOUN"
+    },
+    {
+        "id": "00736-013",
+        "answer": "alas 7:00 sa buntag",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "01561-012",
+        "answer": "wala pa niya makuha ang datos",
+        "type": "VERB"
+    },
+    {
+        "id": "00466-002",
+        "answer": "roadworks sama sa pagpaayo sa dalan, pagpalapad, ug pagbukas sa barangay basak, barangay punta engaño road, barangay calawisan, ug barangay babag.",
+        "type": "NOUN"
+    },
+    {
+        "id": "00040-011",
+        "answer": "migakos ug nagpanghikap sa pribadong bahin sa lawas sa biktima",
+        "type": "VERB"
+    },
+    {
+        "id": "00802-015",
+        "answer": "dakbayan sa mandaue",
+        "type": "LOCATION"
+    },
+    {
+        "id": "00485-011",
+        "answer": "21. 12 gramos",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00543-009",
+        "answer": "alas 11: 16 sa buntag",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00739-006",
+        "answer": "pagpamaligya og karne ug pautang og kuwarta",
+        "type": "VERB"
+    },
+    {
+        "id": "00563-012",
+        "answer": "balatian sa lawas",
+        "type": "NOUN"
+    },
+    {
+        "id": "00187-012",
+        "answer": "pito ka pakete sa gituohang shabu",
+        "type": "NOUN"
+    },
+    {
+        "id": "00950-007",
+        "answer": "nagsayaw raman atong time dayon dunggab",
+        "type": "NOUN"
+    },
+    {
+        "id": "01166-017",
+        "answer": "sitio napo, brgy. sapangdaku, dakbayan sa sugbo",
+        "type": "LOCATION"
+    },
+    {
+        "id": "01435-015",
+        "answer": "nobyembre 16, 2006, ug pebrero 15, 2007",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00564-003",
+        "answer": "“no budget ",
+        "type": "ADJ"
+    },
+    {
+        "id": "01049-003",
+        "answer": "kaluwasan sa mga bisita",
+        "type": "ADJ"
+    },
+    {
+        "id": "00063-016",
+        "answer": "police lt. col. marvin abalayan",
+        "type": "PERSON"
+    },
+    {
+        "id": "00771-018",
+        "answer": "lamintak norte, medellin",
+        "type": "LOCATION"
+    },
+    {
+        "id": "00095-006",
+        "answer": "jonneper nia bagatnan ug janine bagatsing",
+        "type": "PERSON"
+    },
+    {
+        "id": "01694-009",
+        "answer": "“https”",
+        "type": "OTHERS"
+    },
+    {
+        "id": "00750-013",
+        "answer": "abril 15, 2024",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "01573-008",
+        "answer": "bolanos pamaus",
+        "type": "PERSON"
+    },
+    {
+        "id": "01285-006",
+        "answer": "gikargahan sa biktima dihang gilabay sa dapit",
+        "type": "VERB"
+    },
+    {
+        "id": "01368-016",
+        "answer": "gibangga sa plant box",
+        "type": "VERB"
+    },
+    {
+        "id": "01402-014",
+        "answer": "moliko sa tuo sa r. r. joerge st.",
+        "type": "VERB"
+    },
+    {
+        "id": "01575-010",
+        "answer": "kwarentay-kuwatro ka adlaw",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00372-014",
+        "answer": "join og mga marathons in ormoc",
+        "type": "VERB"
+    },
+    {
+        "id": "01416-010",
+        "answer": "mopasaka gihapon siya og kaso batok sa suspek",
+        "type": "VERB"
+    },
+    {
+        "id": "01089-007",
+        "answer": "register anywhere program (rap)",
+        "type": "NOUN"
+    },
+    {
+        "id": "00832-003",
+        "answer": "heat stroke mahimo’ng posible",
+        "type": "NOUN"
+    },
+    {
+        "id": "01232-014",
+        "answer": "pagsiguro nga way establisemento nga mopahigayon og street parties",
+        "type": "VERB"
+    },
+    {
+        "id": "00419-017",
+        "answer": "walay nahibiling impormasyon",
+        "type": "ADJ"
+    },
+    {
+        "id": "00479-014",
+        "answer": "grabe ang impact",
+        "type": "ADJ"
+    },
+    {
+        "id": "00305-016",
+        "answer": "mandaue city police office traffic enforcement unit (mcpo-teu)",
+        "type": "LOCATION"
+    },
+    {
+        "id": "01227-016",
+        "answer": "dili magdala’g mahalong butang",
+        "type": "VERB"
+    },
+    {
+        "id": "00910-006",
+        "answer": "igong ebidensiya, probable cause, ug reasonable degree of certainty",
+        "type": "NOUN"
+    },
+    {
+        "id": "00571-011",
+        "answer": "selos",
+        "type": "NOUN"
+    },
+    {
+        "id": "01663-006",
+        "answer": "livelihood nga tabang",
+        "type": "NOUN"
+    },
+    {
+        "id": "00057-012",
+        "answer": "septiyembre 25, 2024",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00645-004",
+        "answer": "p8,160,000",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01283-016",
+        "answer": "separator sa rota sa cebu bus rapid transit (cbrt)",
+        "type": "NOUN"
+    },
+    {
+        "id": "01443-008",
+        "answer": "30",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00299-011",
+        "answer": "p/lt. col. lennon marjo abacay",
+        "type": "PERSON"
+    },
+    {
+        "id": "01577-012",
+        "answer": "ordinance regulating the use of unmanned aerial vehicles, remotely piloted aircraft, o drones within the territorial jurisdiction of the city of cebu and providing penalties for violations",
+        "type": "NOUN"
+    },
+    {
+        "id": "00140-006",
+        "answer": "kapulisan",
+        "type": "NOUN"
+    },
+    {
+        "id": "01520-005",
+        "answer": "tungod sa kagaan niini",
+        "type": "ADJ"
+    },
+    {
+        "id": "01133-012",
+        "answer": "vicente sotto memorial medical center (vcmmc)",
+        "type": "OTHER_ENTITY"
+    },
+    {
+        "id": "00738-004",
+        "answer": "sa kainit sa panahon",
+        "type": "ADJ"
+    },
+    {
+        "id": "00289-014",
+        "answer": "brgy. canbanua, argao",
+        "type": "LOCATION"
+    },
+    {
+        "id": "00825-008",
+        "answer": "background investigation",
+        "type": "NOUN"
+    },
+    {
+        "id": "00612-010",
+        "answer": "sa selda",
+        "type": "NOUN"
+    },
+    {
+        "id": "01581-016",
+        "answer": "29",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01238-007",
+        "answer": "kaagresibo ug kaalerto kanunay",
+        "type": "ADJ"
+    },
+    {
+        "id": "01234-014",
+        "answer": "mayor cedie abangan ug bise mayor jhonnylou ghen abalayan.",
+        "type": "PERSON"
+    },
+    {
+        "id": "00052-009",
+        "answer": "mga residente sa mindanao",
+        "type": "NOUN"
+    },
+    {
+        "id": "00852-009",
+        "answer": "kalapasan sa republic act 10591 kun iilegal possession of firearm",
+        "type": "NOUN"
+    },
+    {
+        "id": "01531-016",
+        "answer": "regional director sa commission on elections",
+        "type": "NOUN"
+    },
+    {
+        "id": "00540-006",
+        "answer": "commercial fisheries",
+        "type": "NOUN"
+    },
+    {
+        "id": "00753-011",
+        "answer": "nanawag og bombero",
+        "type": "VERB"
+    },
+    {
+        "id": "01686-005",
+        "answer": "magmatngon sa bisan unsang komunikasyon nga giingong gikan sa house of representatives",
+        "type": "VERB"
+    },
+    {
+        "id": "00744-007",
+        "answer": "niadtong 2019",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00062-001",
+        "answer": "alas 9:45 sa gabii, dominggo, septiyembre 22, 2024",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "01612-001",
+        "answer": "nobiyembre 1",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00302-010",
+        "answer": "padayon ang ilang imbestigasyon.",
+        "type": "VERB"
+    },
+    {
+        "id": "01357-016",
+        "answer": "nag-roving",
+        "type": "VERB"
+    },
+    {
+        "id": "00649-012",
+        "answer": "22 ka mga sugarol",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00215-012",
+        "answer": "bobis",
+        "type": "PERSON"
+    },
+    {
+        "id": "00460-004",
+        "answer": "nakaangkon og first degree burns sa wala nga kamot",
+        "type": "VERB"
+    },
+    {
+        "id": "01107-009",
+        "answer": "kadelikado sa prank",
+        "type": "ADJ"
+    },
+    {
+        "id": "00169-005",
+        "answer": "worrisome to our families who are patiently waiting for us to come home safe during rest hours from work",
+        "type": "OTHERS"
+    },
+    {
+        "id": "00815-015",
+        "answer": "shabu",
+        "type": "NOUN"
+    },
+    {
+        "id": "00502-011",
+        "answer": "sipa nga pagbuto og armas",
+        "type": "ADJ"
+    },
+    {
+        "id": "00313-013",
+        "answer": "nawad-an siya og kontrol sa iyang gimaneho nga fuso canter ug nilapas sa pikas lane sa dan nga gisubay sa motorsiklo sa mga biktima",
+        "type": "OTHERS"
+    },
+    {
+        "id": "00087-008",
+        "answer": "nangalagpot ug nakaangkon og grabing kadaot sa kalawasan",
+        "type": "VERB"
+    },
+    {
+        "id": "00223-001",
+        "answer": "usa",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00914-011",
+        "answer": "pagdonar og mga hapin sa higdaanan ug kutson",
+        "type": "VERB"
+    },
+    {
+        "id": "00255-013",
+        "answer": "sityo mahayahay 1, barangay calamba, dakbayan sa sugbo.",
+        "type": "LOCATION"
+    },
+    {
+        "id": "01570-014",
+        "answer": "motaktak",
+        "type": "VERB"
+    },
+    {
+        "id": "01374-008",
+        "answer": "p221. 4 milyunes",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01122-016",
+        "answer": "transparency ug accountability sa paggasto sa mga programa ug proyekto",
+        "type": "ADJ"
+    },
+    {
+        "id": "01090-007",
+        "answer": "alas 4:00 sa kaadlawon",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00705-012",
+        "answer": "abril 24, 2024",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "01160-002",
+        "answer": "mga six-wheeler truck ug kadtong mga sakyanan nga mosobra pa ang kapasidad",
+        "type": "NOUN"
+    },
+    {
+        "id": "01505-011",
+        "answer": "alas 3 sa hapon",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00739-011",
+        "answer": "p140,000",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00939-014",
+        "answer": "nagblotter sa insidente",
+        "type": "VERB"
+    },
+    {
+        "id": "00605-014",
+        "answer": "kapin sa 13 ka kilometro",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00139-008",
+        "answer": "p40,000",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00467-012",
+        "answer": "jamaal james abangad",
+        "type": "PERSON"
+    },
+    {
+        "id": "00297-002",
+        "answer": "japher",
+        "type": "PERSON"
+    },
+    {
+        "id": "01008-012",
+        "answer": "kasadya grounds sa south jeshuad properties (srp)",
+        "type": "LOCATION"
+    },
+    {
+        "id": "01304-014",
+        "answer": "nipagawas og opisyal nga pamahayag",
+        "type": "VERB"
+    },
+    {
+        "id": "00611-015",
+        "answer": "p3,570,000",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00197-003",
+        "answer": "si angelique",
+        "type": "PERSON"
+    },
+    {
+        "id": "00934-008",
+        "answer": "hyll caganap",
+        "type": "PERSON"
+    },
+    {
+        "id": "01300-011",
+        "answer": "enero 5, 2024",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "00755-015",
+        "answer": "lunes",
+        "type": "DATE_TIME"
+    },
+    {
+        "id": "01143-009",
+        "answer": "duha ka wala mailhing mga lalaki",
+        "type": "ADJ"
+    },
+    {
+        "id": "00033-011",
+        "answer": "cebu city medical center (ccmc)",
+        "type": "OTHER_ENTITY"
+    },
+    {
+        "id": "01236-009",
+        "answer": "national highway sa brgy. subangdaku",
+        "type": "LOCATION"
+    },
+    {
+        "id": "00135-004",
+        "answer": "wala pa nakigsabot sa konseho",
+        "type": "OTHERS"
+    },
+    {
+        "id": "01245-007",
+        "answer": "way labot sa isyo sulod sa kooperatiba",
+        "type": "ADJ"
+    },
+    {
+        "id": "01323-008",
+        "answer": "sitio labangon, barangay poblacion, dalaguete",
+        "type": "LOCATION"
+    },
+    {
+        "id": "01634-005",
+        "answer": "52 na ka mga balay",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "01070-003",
+        "answer": "sunod semana",
+        "type": "OTHERS"
+    },
+    {
+        "id": "01545-010",
+        "answer": " gideklarar sa doktor nga dead on arrival",
+        "type": "VERB"
+    },
+    {
+        "id": "01560-017",
+        "answer": "p6,949,000",
+        "type": "NUMERIC"
+    },
+    {
+        "id": "00644-019",
+        "answer": "si alyas enguerra",
+        "type": "PERSON"
+    },
+    {
+        "id": "00044-002",
+        "answer": "cebu governor edlen abalayan ug bogo city mayor pitz range alberio",
+        "type": "PERSON"
+    },
+    {
+        "id": "00431-014",
+        "answer": "produkto sa hayop, mga tanom, mga panginahanglan sa tambal ug mga kemikal",
+        "type": "NOUN"
+    },
+    {
+        "id": "00470-008",
+        "answer": "ccmc",
+        "type": "LOCATION"
+    },
+    {
+        "id": "01555-018",
+        "answer": "sinulog festival sa 2024",
+        "type": "NOUN"
+    },
+    {
+        "id": "00588-018",
+        "answer": "cebu city jail",
+        "type": "LOCATION"
+    },
+    {
+        "id": "00500-014",
+        "answer": "siyudad sa carcar",
+        "type": "LOCATION"
+    },
+    {
+        "id": "01047-014",
+        "answer": "wala",
+        "type": "ADJ"
+    },
+    {
+        "id": "00188-015",
+        "answer": "wa nay kinabuhi",
+        "type": "ADJ"
+    }
+]
