@@ -43,5 +43,5 @@ dataset = DatasetDict(final_splits)
 
 # Print dataset sizes
 print(dataset)
-dataset.save_to_disk(get_path(["dataset", "cebquad"]))
+# dataset.save_to_disk(get_path(["dataset", "cebquad"]))
 

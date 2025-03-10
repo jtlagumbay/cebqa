@@ -7,6 +7,7 @@ import joblib
 from sklearn_crfsuite.metrics import *
 import re
 from collections import Counter
+import matplotlib.pyplot as plt
 
 
 def write_file(path, data):
@@ -205,3 +206,47 @@ class NER:
 
     def mark_name(self, name, type):
         print(name, type)
+
+
+
+def plot_pie_chart(labels, values, title="Distribution of Articles"):
+    """
+    Function to plot a pie chart.
+
+    Parameters:
+    - labels (list): List of category names.
+    - values (list): Corresponding values for each category.
+    - title (str): Title of the chart (default: "Distribution of Articles").
+    """
+    # colors = ["#66b3ff", "#99ff99", "#ff9999"]  # Custom colors
+
+    plt.figure(figsize=(6,6))
+    # Create pie chart without labels (only autopct for percentages)
+    wedges, _, = plt.pie(values, labels=[str(v) for v in values], startangle=140)
+
+    # Create legend with values
+    legend_labels = [f"{label}: {value}" for label, value in zip(labels, values)]
+    plt.legend(wedges, legend_labels, title="Categories", loc="upper right", bbox_to_anchor=(1.3, 1))
+    plt.title(title)
+    plt.show()
+
+def plot_horizontal_bar_chart(labels, values, xlabel, ylabel, title="Horizontal Bar Chart"):
+    """
+    Plots a horizontal bar chart with the given labels and values.
+
+    Parameters:
+    labels (list): List of category labels.
+    values (list): Corresponding values for each category.
+    title (str): Title of the chart.
+    """
+    plt.figure(figsize=(6, 6))
+    plt.barh(labels, values)
+    plt.xlabel(xlabel)
+    plt.ylabel(ylabel)
+    plt.title(title)
+    
+    # Add values as labels on the bars
+    for index, value in enumerate(values):
+        plt.text(value + 0.1, index, str(value), va='center')
+
+    plt.show()
