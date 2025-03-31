@@ -16,7 +16,7 @@ Arranged in the following directories:
 1. [Skip] Create virtual environment: `python3.12 -m venv venv`
 2. Run venv: `source  venv3-12/bin/activate`
 3. Install dependencies: `pip3 install -r requirements.txt`
-4. To run a script, run `python <folder_name>/<script_name>`. Example: `scraper/article_url_parser` 
+4. To run a script, run `python <folder_name>/<script_name>`. Example: `python scraper/article_url_parser` 
 5. Add path of module to environment: export PYTHONPATH:<path of folder>/utils.py `export PYTHONPATH=$PYTHONPATH:/Users/jhoannaricalagumbay/School/cebqa/utils.py`
 6. `brew install tcl-tk` 
 7. `brew install python-tk`
