@@ -1,0 +1,77 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 6396474,
+  "description": "",
+  "download_checksums": {
+    "/Users/jhoannaricalagumbay/School/cebqa/dataset/val.csv": {
+      "num_bytes": 6307698,
+      "checksum": null
+    }
+  },
+  "download_size": 6307698,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "article_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "article_title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "article_body": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "context": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "context_start": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "context_end": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "answer_start": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "answer_end": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 12704172,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 6396474,
+      "num_examples": 2763,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
