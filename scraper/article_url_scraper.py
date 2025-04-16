@@ -11,7 +11,8 @@ from selenium.webdriver.chrome.service import Service
 
 
 
-HOME_URL = "https://www.sunstar.com.ph/superbalita-cebu"
+# HOME_URL = "https://www.sunstar.com.ph/superbalita-cebu"
+HOME_URL = "https://www.sunstar.com.ph/superbalita-davao"
 
 def get_page_source(url):
     retry_limit = 5
@@ -32,7 +33,7 @@ def get_page_source(url):
     time.sleep(10)
     driver.get(url)
     iter = 0
-    limit = 1000
+    limit = 2
     while iter < limit:
         print(f"Iteration: {iter} ")
         try:
@@ -85,7 +86,7 @@ def get_page_source(url):
 articles = get_page_source(HOME_URL)
 
 timestamp = time.strftime("%Y%m%d-%H%M%S")
-file_path = f"script-{timestamp}.json"
+file_path = f"superbalita-davao-article-links-{timestamp}.csv"
 
 with open(file_path, "w") as file:
     json.dump(articles, file, ensure_ascii=False, indent=4)

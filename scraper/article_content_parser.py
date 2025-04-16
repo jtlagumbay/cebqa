@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from utils import *
 
 FOLDER_PATH = "./scraper/"
 
@@ -45,7 +46,7 @@ def save_to_json(data, filename):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 def scrape_articles():
-    article_urls = load_urls_from_json(FOLDER_PATH + "/script-20241121-173840.json")
+    article_urls = read_file(get_path(["scraper", "superbalita-davao-article-links-20250411-130618.json"]))
 
     articles = []
     error_articles = []
@@ -72,8 +73,8 @@ def scrape_articles():
     return articles, error_articles
 
 timestamp = time.strftime("%Y%m%d-%H%M%S")
-file_path = FOLDER_PATH + f"superbalita-articles-{timestamp}.json"
-file_path_error = FOLDER_PATH + f"superbalita-articles-error-{timestamp}.json"
+file_path = FOLDER_PATH + f"superbalita-davao-articles-{timestamp}.csv"
+file_path_error = FOLDER_PATH + f"superbalita-davao-articles-error-{timestamp}.csv"
 
 [articles, error_articles] = scrape_articles()
 save_to_json(articles, file_path)
